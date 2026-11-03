@@ -55,3 +55,8 @@ window.SITE_CONTENT = {
     {id:'ali2024topology',year:2024,category:'thermodynamics',title:'Topology of Born–Infeld-AdS black hole phase transitions: Bulk and CFT sides',bibTitle:'Topology of {Born--Infeld-AdS} black hole phase transitions: Bulk and {CFT} sides',authors:'M. S. Ali, H. El Moumni, J. Khalloufi, K. Masmar',bibAuthors:'Ali, M. S. and El Moumni, H. and Khalloufi, J. and Masmar, K.',journal:'Annals of Physics',volume:'465',pages:'169679',doi:'10.1016/j.aop.2024.169679',arxiv:'2306.11212',noteEn:'Topological descriptions of black-hole criticality in the bulk and its boundary thermodynamic description.',noteFr:'Descriptions topologiques de la criticité des trous noirs dans le volume et dans la description thermodynamique de bord.'}
   ]
 };
+
+
+Object.assign(window.SITE_CONTENT.translations.en,{"navHome": "Home", "navAbout": "About", "navResearch": "Research", "navPubs": "Publications", "navTeaching": "Teaching", "navActivities": "Activities", "navContact": "Contact", "browseCourses": "Browse courses", "courseArchive": "Course archive", "activityHeading": "Scientific activities", "activityIntro": "For scientific collaborations and academic enquiries, please get in touch.", "contactAction": "Contact me"});
+
+Object.assign(window.SITE_CONTENT.translations.fr,{"navHome": "Accueil", "navAbout": "Parcours", "navResearch": "Recherche", "navPubs": "Publications", "navTeaching": "Enseignement", "navActivities": "Activités", "navContact": "Contact", "browseCourses": "Parcourir les enseignements", "courseArchive": "Archives des cours", "activityHeading": "Activités scientifiques", "activityIntro": "Pour une collaboration scientifique ou une demande académique, vous pouvez me contacter.", "contactAction": "Me contacter"});

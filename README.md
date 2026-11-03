@@ -32,3 +32,13 @@ Run `node --check assets/content.js`, `node --check assets/main.js` and `python3
 The website has no contact-form backend, analytics or third-party JavaScript. Language preference and the mechanics notebook use browser-local storage. External academic services open only when a visitor follows a link.
 
 Content provenance is documented in [SOURCES.md](SOURCES.md). This initial version carries no explicit reuse license; a license can be added when the author has chosen the intended reuse terms.
+
+
+## Multipage structure — stage 2 (3 November 2026)
+
+The twelve editorial pages share templates/page.html and templates/pages.json.
+Regenerate after editing these sources with python3 scripts/build-pages.py.
+assets/content.js remains the single source for translations and selected publications.
+The homepage retains its historical section anchors; teaching/pendule.html is unchanged.
+Run python3 scripts/check-site.py and node --check assets/main.js after regeneration.
+New course pages currently link to the existing archives. Full content migration is planned in later stages.
