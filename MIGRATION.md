@@ -1,17 +1,11 @@
 # Migration Weebly → GitHub
 
-## Completed
-- Stage 1: inventory and source-to-destination mapping (3 November 2026).
-- Stage 2: shared page template, seven navigation entries, twelve editorial pages, teaching portal, breadcrumbs and sitemap.
-- Existing English/French copy, selected publications, historical homepage anchors, portrait and pendulum retained.
-- JavaScript made compatible with pages lacking publication or contact components.
-- Static checks extended to every delivered HTML page and internal anchor.
+Stages 1 and 2 completed. Stage 3 partially published on 4 November 2026:
+- Home: academic profile links and full biography link.
+- About: historical employment, four qualifications, dissertation topics and CERN visit (2–15 September 2018).
+- English/French translations added; current Full Professor rank preserved.
+- Portrait, teaching pages, publication records and pendulum unchanged.
 
-## Validation
-JavaScript syntax and local links/anchors/translations/publication metadata checks pass.
-Browser launch is restricted in the execution environment; visual desktop/mobile verification could not be completed here.
-No course files, new bibliography, CV, biographies or activity records were migrated in this stage.
+Pending: original archived CV and postal address, prepared on local branch stage3-full-prepared. Automated approval rejected public disclosure of CV contact details; explicit confirmation in the current conversation is required before publication. The CV must remain clearly identified as historical and unupdated.
 
-## Next
-Stage 3 only when requested: enrich Home, About/CV and Contact from the verified inventory.
-Other stages remain pending. Do not import the older Weebly rank or unverified current responsibilities.
+Validation: static links, anchors, translations and JavaScript syntax pass. Browser rendering could not be tested because Chromium socket creation is restricted.

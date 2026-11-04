@@ -14,3 +14,6 @@ Verified on 2 November 2026. The homepage contains a selected bibliography, not 
 - **Born–Infeld-AdS topology:** [Bibliographic record](https://inspirehep.net/literature/2785036), Annals of Physics 465, 169679 (2024), DOI 10.1016/j.aop.2024.169679; arXiv:2306.11212. The full four-author list and published title were retained.
 
 The portrait is the author's supplied professional portrait. The thematic drawings are original schematic SVGs, not research results. The mechanics chapter is the existing standalone prototype created for this project; it is included without content changes.
+
+## Stage 3 — 4 November 2026
+Home academic links and About employment, education and CERN visit come from the Weebly archive captured on 2 November 2026. Current Full Professor rank is retained from the existing site. Undated former responsibilities are not presented as current. INSPIRE and arXiv links are name searches, not verified author identifiers. Web of Science uses ResearcherID T-6745-2019 recorded in the archive. External platforms may require login. CV and postal-address publication remain pending.
