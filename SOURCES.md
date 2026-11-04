@@ -38,3 +38,6 @@ Source: Weebly teaching.html and liens_cours_MEGA.json from the 2 November archi
 
 ## Stage 7 teaching resources
 Source: Sauvegarde_Weebly_Hasan_2026-11-02/site/teaching.html and liens_cours_MEGA.json, entries 0–8 and 57–61. Exact MEGA URLs (including decryption fragments) and six YouTube URLs preserved. Index: data/teaching-stage7-resources.json. External document/video availability not checked; documents are linked, not downloaded. Archive labels without URLs remain unavailable.
+
+## Stage 8 tools
+Source: archived site/teaching.html (Zenodo 17444122, Nantes 121bp2co, Tenet video 4xj0KRqzo-0 with t=126s); current teaching/pendule.html for actual laboratory features. Original external URLs preserved. No external simulation was downloaded or represented as tested.

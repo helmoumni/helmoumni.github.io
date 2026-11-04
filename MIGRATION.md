@@ -29,3 +29,6 @@ Portal refreshed with a featured statistics library and course-level navigation.
 
 ## Stage 7 — Quantum mechanics, relativity and nuclear practicals
 Three course pages now expose 14 MEGA documents and six quantum mechanics videos. Quantum corrections preserve series/problem associations and the distinct 2017–2018 / 2019–2020 periods. Series 4 problem 2 has no capture/video URLs in the archive and is explicitly marked. Relativity retains the Master S3 2021–2024 context; nuclear practicals retain SMP-S5 2021–2022 and manipulation 3. Portal cards and homepage relativity link updated. Next lot: tools and simulations.
+
+## Stage 8 — Tools and simulations
+Expanded the tools page with the existing pendulum laboratory, its preparation/measurement/analysis workflow, and three archived external resources. No simulation code changed. The Nantes two-body link returned HTTP 404 on 2026-11-04 and is explicitly unavailable; Zenodo could not be retrieved, and YouTube availability is unchecked. Next lot: academic activities.

@@ -4,7 +4,7 @@ root=Path(__file__).resolve().parents[1]
 shell=(root/'templates/page.html').read_text()
 pages=json.loads((root/'templates/pages.json').read_text())
 for path,(en,fr,body) in pages.items():
-    if path in ('research.html', 'publications.html', 'teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html'):
+    if path in ('research.html', 'publications.html', 'teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html', 'teaching/outils-simulations.html'):
         body = (root/'templates'/path).read_text()
     prefix='../' if path.startswith('teaching/') else ''
     page=shell.replace('{{CONTENT}}',body)
@@ -48,7 +48,7 @@ for path,(en,fr,body) in pages.items():
             data.pop('email', None)
             return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + '</script>'
         page = re.sub(r'<script type="application/ld\+json">(.*?)</script>', minimal_schema, page)
-    if path in ('teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html'):
+    if path in ('teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html', 'teaching/outils-simulations.html'):
         page = page.replace('</head>', '<link rel="stylesheet" href="../assets/teaching-resources.css"></head>')
     if path == 'research.html':
         page = page.replace('</head>', '<link rel="stylesheet" href="assets/arabic-writing.css"></head>')
