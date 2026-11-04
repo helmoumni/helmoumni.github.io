@@ -1,0 +1,246 @@
+{
+  "archiveCount": 57,
+  "existingCount": 6,
+  "mergedCount": 1,
+  "outputCount": 62,
+  "merges": [
+    {
+      "sourceOrdinal": 3,
+      "sourceTitle": "Topology of Born-Infeld-AdS Black Hole Phase Transition",
+      "retainedId": "ali2024topology",
+      "matchedBy": "arxiv",
+      "value": "2306.11212"
+    }
+  ],
+  "sourceMapping": [
+    {
+      "sourceOrdinal": 1,
+      "recordId": "weebly-01"
+    },
+    {
+      "sourceOrdinal": 2,
+      "recordId": "weebly-02"
+    },
+    {
+      "sourceOrdinal": 3,
+      "recordId": "ali2024topology"
+    },
+    {
+      "sourceOrdinal": 4,
+      "recordId": "weebly-04"
+    },
+    {
+      "sourceOrdinal": 5,
+      "recordId": "weebly-05"
+    },
+    {
+      "sourceOrdinal": 6,
+      "recordId": "weebly-06"
+    },
+    {
+      "sourceOrdinal": 7,
+      "recordId": "weebly-07"
+    },
+    {
+      "sourceOrdinal": 8,
+      "recordId": "weebly-08"
+    },
+    {
+      "sourceOrdinal": 9,
+      "recordId": "weebly-09"
+    },
+    {
+      "sourceOrdinal": 10,
+      "recordId": "weebly-10"
+    },
+    {
+      "sourceOrdinal": 11,
+      "recordId": "weebly-11"
+    },
+    {
+      "sourceOrdinal": 12,
+      "recordId": "weebly-12"
+    },
+    {
+      "sourceOrdinal": 13,
+      "recordId": "weebly-13"
+    },
+    {
+      "sourceOrdinal": 14,
+      "recordId": "weebly-14"
+    },
+    {
+      "sourceOrdinal": 15,
+      "recordId": "weebly-15"
+    },
+    {
+      "sourceOrdinal": 16,
+      "recordId": "weebly-16"
+    },
+    {
+      "sourceOrdinal": 17,
+      "recordId": "weebly-17"
+    },
+    {
+      "sourceOrdinal": 18,
+      "recordId": "weebly-18"
+    },
+    {
+      "sourceOrdinal": 19,
+      "recordId": "weebly-19"
+    },
+    {
+      "sourceOrdinal": 20,
+      "recordId": "weebly-20"
+    },
+    {
+      "sourceOrdinal": 21,
+      "recordId": "weebly-21"
+    },
+    {
+      "sourceOrdinal": 22,
+      "recordId": "weebly-22"
+    },
+    {
+      "sourceOrdinal": 23,
+      "recordId": "weebly-23"
+    },
+    {
+      "sourceOrdinal": 24,
+      "recordId": "weebly-24"
+    },
+    {
+      "sourceOrdinal": 25,
+      "recordId": "weebly-25"
+    },
+    {
+      "sourceOrdinal": 26,
+      "recordId": "weebly-26"
+    },
+    {
+      "sourceOrdinal": 27,
+      "recordId": "weebly-27"
+    },
+    {
+      "sourceOrdinal": 28,
+      "recordId": "weebly-28"
+    },
+    {
+      "sourceOrdinal": 29,
+      "recordId": "weebly-29"
+    },
+    {
+      "sourceOrdinal": 30,
+      "recordId": "weebly-30"
+    },
+    {
+      "sourceOrdinal": 31,
+      "recordId": "weebly-31"
+    },
+    {
+      "sourceOrdinal": 32,
+      "recordId": "weebly-32"
+    },
+    {
+      "sourceOrdinal": 33,
+      "recordId": "weebly-33"
+    },
+    {
+      "sourceOrdinal": 34,
+      "recordId": "weebly-34"
+    },
+    {
+      "sourceOrdinal": 35,
+      "recordId": "weebly-35"
+    },
+    {
+      "sourceOrdinal": 36,
+      "recordId": "weebly-36"
+    },
+    {
+      "sourceOrdinal": 37,
+      "recordId": "weebly-37"
+    },
+    {
+      "sourceOrdinal": 38,
+      "recordId": "weebly-38"
+    },
+    {
+      "sourceOrdinal": 39,
+      "recordId": "weebly-39"
+    },
+    {
+      "sourceOrdinal": 40,
+      "recordId": "weebly-40"
+    },
+    {
+      "sourceOrdinal": 41,
+      "recordId": "weebly-41"
+    },
+    {
+      "sourceOrdinal": 42,
+      "recordId": "weebly-42"
+    },
+    {
+      "sourceOrdinal": 43,
+      "recordId": "weebly-43"
+    },
+    {
+      "sourceOrdinal": 44,
+      "recordId": "weebly-44"
+    },
+    {
+      "sourceOrdinal": 45,
+      "recordId": "weebly-45"
+    },
+    {
+      "sourceOrdinal": 46,
+      "recordId": "weebly-46"
+    },
+    {
+      "sourceOrdinal": 47,
+      "recordId": "weebly-47"
+    },
+    {
+      "sourceOrdinal": 48,
+      "recordId": "weebly-48"
+    },
+    {
+      "sourceOrdinal": 49,
+      "recordId": "weebly-49"
+    },
+    {
+      "sourceOrdinal": 50,
+      "recordId": "weebly-50"
+    },
+    {
+      "sourceOrdinal": 51,
+      "recordId": "weebly-51"
+    },
+    {
+      "sourceOrdinal": 52,
+      "recordId": "weebly-52"
+    },
+    {
+      "sourceOrdinal": 53,
+      "recordId": "weebly-53"
+    },
+    {
+      "sourceOrdinal": 54,
+      "recordId": "weebly-54"
+    },
+    {
+      "sourceOrdinal": 55,
+      "recordId": "weebly-55"
+    },
+    {
+      "sourceOrdinal": 56,
+      "recordId": "weebly-56"
+    },
+    {
+      "sourceOrdinal": 57,
+      "recordId": "weebly-57"
+    }
+  ],
+  "verification": "Archive import only. Bibliographic status and externally inferred metadata are deferred to stage 5B."
+}

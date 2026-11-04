@@ -4,8 +4,8 @@ root=Path(__file__).resolve().parents[1]
 shell=(root/'templates/page.html').read_text()
 pages=json.loads((root/'templates/pages.json').read_text())
 for path,(en,fr,body) in pages.items():
-    if path == 'research.html':
-        body = (root/'templates/research.html').read_text()
+    if path in ('research.html', 'publications.html'):
+        body = (root/'templates'/path).read_text()
     prefix='../' if path.startswith('teaching/') else ''
     page=shell.replace('{{CONTENT}}',body)
     # Assets always live in the root assets folder.
@@ -33,8 +33,9 @@ for path,(en,fr,body) in pages.items():
         page=page.replace('href="#publications"','href="publications.html"')
     else:
         page=page.replace('</main>','<div class="container section-links"><a class="text-link" href="teaching/index.html" data-i18n="browseCourses">Browse courses</a></div></main>')
-    if path == 'research.html':
-        page = page.replace('<script src="assets/content.js"></script>', '<script src="assets/content.js"></script><script src="assets/research-content.js"></script>')
+    if path in ('research.html', 'publications.html'):
+        extra = 'research-content.js' if path == 'research.html' else 'bibliography-content.js'
+        page = page.replace('<script src="assets/content.js"></script>', '<script src="assets/content.js"></script><script src="assets/' + extra + '"></script>')
         def minimal_schema(match):
             data = json.loads(match[1])
             data.pop('email', None)

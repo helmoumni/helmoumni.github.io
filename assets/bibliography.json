@@ -1,0 +1,867 @@
+[
+  {
+    "id": "barzi2026unruh",
+    "year": 2026,
+    "category": "thermodynamics",
+    "title": "Modified Unruh thermodynamics in emergent gravity: Finite heat capacity and Rényi entropy",
+    "bibTitle": "Modified {Unruh} thermodynamics in emergent gravity: Finite heat capacity and {R\\'enyi} entropy",
+    "authors": "F. Barzi, H. El Moumni, K. Masmar",
+    "bibAuthors": "Barzi, F. and El Moumni, H. and Masmar, K.",
+    "journal": "Physical Review Research",
+    "volume": "8",
+    "pages": "013260",
+    "doi": "10.1103/mnm4-mylh",
+    "noteEn": "Finite heat-capacity effects in horizon thermodynamics and their relation to Rényi entropy and emergent gravity.",
+    "noteFr": "Effets d’une capacité calorifique finie sur la thermodynamique des horizons et liens avec l’entropie de Rényi et la gravitation émergente.",
+    "details": "F. Barzi, H. El Moumni, K. Masmar — Physical Review Research 8, 013260 (2026)",
+    "source": "existing-selection",
+    "url": "https://doi.org/10.1103/mnm4-mylh",
+    "linkType": "doi",
+    "sourceOrdinals": [],
+    "yearBasis": "existing-record"
+  },
+  {
+    "id": "ahal2026bayesian",
+    "year": 2026,
+    "category": "qpo",
+    "title": "QPO-based Bayesian constraints on charged particle dynamics around magnetized Schwarzschild black holes",
+    "bibTitle": "{QPO}-based {Bayesian} constraints on charged particle dynamics around magnetized {Schwarzschild} black holes",
+    "authors": "Z. Ahal, H. El Moumni, K. Masmar",
+    "bibAuthors": "Ahal, Z. and El Moumni, H. and Masmar, K.",
+    "journal": "Physics of the Dark Universe",
+    "volume": "52",
+    "pages": "102311",
+    "doi": "10.1016/j.dark.2026.102311",
+    "noteEn": "Bayesian inference from QPO observations for particle dynamics in a black-hole magnetosphere.",
+    "noteFr": "Inférence bayésienne à partir des QPO pour contraindre la dynamique des particules dans la magnétosphère d’un trou noir.",
+    "details": "Z. Ahal, H. El Moumni, K. Masmar — Physics of the Dark Universe 52, 102311 (2026)",
+    "source": "existing-selection",
+    "url": "https://doi.org/10.1016/j.dark.2026.102311",
+    "linkType": "doi",
+    "sourceOrdinals": [],
+    "yearBasis": "existing-record"
+  },
+  {
+    "id": "barzi2026microstructure",
+    "year": 2026,
+    "category": "thermodynamics",
+    "title": "On Rényi microstructural aspects of asymptotically flat charged black holes: A novel duality",
+    "bibTitle": "On {R\\'enyi} microstructural aspects of asymptotically flat charged black holes: A novel duality",
+    "authors": "F. Barzi, H. El Moumni, K. Masmar",
+    "bibAuthors": "Barzi, F. and El Moumni, H. and Masmar, K.",
+    "journal": "Nuclear Physics B",
+    "volume": "1022",
+    "pages": "117239",
+    "doi": "10.1016/j.nuclphysb.2025.117239",
+    "arxiv": "2508.07357",
+    "noteEn": "Generalized statistical mechanics, horizon area quantization and thermodynamic duality for charged black holes.",
+    "noteFr": "Statistique généralisée, quantification de l’aire de l’horizon et dualité thermodynamique des trous noirs chargés.",
+    "details": "F. Barzi, H. El Moumni, K. Masmar — Nuclear Physics B 1022, 117239 (2026)",
+    "source": "existing-selection",
+    "url": "https://doi.org/10.1016/j.nuclphysb.2025.117239",
+    "linkType": "doi",
+    "sourceOrdinals": [],
+    "yearBasis": "existing-record"
+  },
+  {
+    "id": "ahal2025halos",
+    "year": 2025,
+    "category": "qpo",
+    "title": "Modeling HF-QPOs in microquasars and AGNs: charged particles around black holes with CDM halos",
+    "bibTitle": "Modeling {HF-QPOs} in microquasars and {AGNs}: charged particles around black holes with {CDM} halos",
+    "authors": "Z. Ahal, H. El Moumni, K. Masmar",
+    "bibAuthors": "Ahal, Z. and El Moumni, H. and Masmar, K.",
+    "journal": "The European Physical Journal C",
+    "volume": "85",
+    "pages": "1090",
+    "doi": "10.1140/epjc/s10052-025-14830-6",
+    "arxiv": "2507.11139",
+    "noteEn": "Oscillation frequencies and QPO models in the presence of magnetic fields and cold-dark-matter halos.",
+    "noteFr": "Fréquences d’oscillation et modèles de QPO en présence de champs magnétiques et de halos de matière noire froide.",
+    "details": "Z. Ahal, H. El Moumni, K. Masmar — The European Physical Journal C 85, 1090 (2025)",
+    "source": "existing-selection",
+    "url": "https://doi.org/10.1140/epjc/s10052-025-14830-6",
+    "linkType": "doi",
+    "sourceOrdinals": [],
+    "yearBasis": "existing-record"
+  },
+  {
+    "id": "chakhchi2025shadows",
+    "year": 2025,
+    "category": "shadows",
+    "title": "A supersymmetric suspicion from accelerating black hole shadows",
+    "bibTitle": "A supersymmetric suspicion from accelerating black hole shadows",
+    "authors": "L. Chakhchi, H. El Moumni, K. Masmar",
+    "bibAuthors": "Chakhchi, L. and El Moumni, H. and Masmar, K.",
+    "journal": "Physics of the Dark Universe",
+    "volume": "47",
+    "pages": "101731",
+    "doi": "10.1016/j.dark.2024.101731",
+    "arxiv": "2409.02594",
+    "noteEn": "Shadow observables of accelerating black-hole geometries compared with EHT measurements.",
+    "noteFr": "Comparaison des observables de l’ombre de trous noirs accélérés aux mesures de l’EHT.",
+    "details": "L. Chakhchi, H. El Moumni, K. Masmar — Physics of the Dark Universe 47, 101731 (2025)",
+    "source": "existing-selection",
+    "url": "https://doi.org/10.1016/j.dark.2024.101731",
+    "linkType": "doi",
+    "sourceOrdinals": [],
+    "yearBasis": "existing-record"
+  },
+  {
+    "id": "ali2024topology",
+    "year": 2024,
+    "category": "thermodynamics",
+    "title": "Topology of Born–Infeld-AdS black hole phase transitions: Bulk and CFT sides",
+    "bibTitle": "Topology of {Born--Infeld-AdS} black hole phase transitions: Bulk and {CFT} sides",
+    "authors": "M. S. Ali, H. El Moumni, J. Khalloufi, K. Masmar",
+    "bibAuthors": "Ali, M. S. and El Moumni, H. and Khalloufi, J. and Masmar, K.",
+    "journal": "Annals of Physics",
+    "volume": "465",
+    "pages": "169679",
+    "doi": "10.1016/j.aop.2024.169679",
+    "arxiv": "2306.11212",
+    "noteEn": "Topological descriptions of black-hole criticality in the bulk and its boundary thermodynamic description.",
+    "noteFr": "Descriptions topologiques de la criticité des trous noirs dans le volume et dans la description thermodynamique de bord.",
+    "details": "M. S. Ali, H. El Moumni, J. Khalloufi, K. Masmar — Annals of Physics 465, 169679 (2024)",
+    "source": "existing-selection",
+    "url": "https://doi.org/10.1016/j.aop.2024.169679",
+    "linkType": "doi",
+    "sourceOrdinals": [
+      3
+    ],
+    "yearBasis": "existing-record"
+  },
+  {
+    "id": "weebly-01",
+    "title": "Rényi Topology of Charged-flat Black Hole: Hawking-Page and Van-der-Waals Phase Transitions",
+    "details": "F. Barzi, H. El Moumni and K. Masmar [arXiv:2309.14069 [hep-th]]",
+    "year": 2023,
+    "yearBasis": "archived-preprint",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      1
+    ],
+    "arxiv": "2309.14069",
+    "url": "https://arxiv.org/abs/2309.14069",
+    "linkType": "arxiv"
+  },
+  {
+    "id": "weebly-02",
+    "title": "Thermodynamics and phase transition structure of charged black holes in f(R) gravity background from Rényi statistics perception",
+    "details": "F. Demami, H. El Moumni, K. Masmar and S. Mazzou Published in Nucl. Phys. B 994, 116316 (2023)",
+    "year": 2023,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      2
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Thermodynamics%20and%20phase%20transition%20structure%20of%20charged%20black%20holes%20in%20f%28R%29%20gravity%20background%20from%20R%C3%A9nyi%20statistics%20perception%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-04",
+    "title": "On some phase equilibrium features of charged black holes in flat spacetime via Rényi statistics",
+    "details": "F. Barzi, H. El Moumni and K. Masmar Published in Gen. Rel. Grav. 55, no.10, 109 (2023)",
+    "year": 2023,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      4
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20some%20phase%20equilibrium%20features%20of%20charged%20black%20holes%20in%20flat%20spacetime%20via%20R%C3%A9nyi%20statistics%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-05",
+    "title": "Born-Infeld-AdS black hole phase structure: Landau theory and free energy landscape approaches",
+    "details": "M. S. Ali, H. El Moumni, J. Khalloufi and K. Masmar [arXiv:2303.11711 [hep-th]].",
+    "year": 2023,
+    "yearBasis": "archived-preprint",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      5
+    ],
+    "arxiv": "2303.11711",
+    "url": "https://arxiv.org/abs/2303.11711",
+    "linkType": "arxiv"
+  },
+  {
+    "id": "weebly-06",
+    "title": "Revisiting the second law and weak cosmic censorship conjecture in high-dimensional charged-AdS black hole: an additional assumption",
+    "details": "M. S. Ali, H. El Moumni, J. Khalloufi and K. Masmar Published in JHEP 03, 160 (2023)",
+    "year": 2023,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      6
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Revisiting%20the%20second%20law%20and%20weak%20cosmic%20censorship%20conjecture%20in%20high-dimensional%20charged-AdS%20black%20hole%3A%20an%20additional%20assumption%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-07",
+    "title": "Light Behaviors around Black Holes in M-theory",
+    "details": "N. Askour, A. Belhaj, H. Belmahi, M. Benali, H. El Moumni and Y. Sekhmani Published in: International Journal of Geometric Methods in Modern Physics [arXiv:2301.08321 [hep-th]].",
+    "year": 2023,
+    "yearBasis": "archived-preprint",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      7
+    ],
+    "arxiv": "2301.08321",
+    "url": "https://arxiv.org/abs/2301.08321",
+    "linkType": "arxiv"
+  },
+  {
+    "id": "weebly-08",
+    "title": "On Rényi universality formula of charged flat black holes from Hawking-Page phase transition",
+    "details": "F. Barzi and H. El Moumni Published in Phys. Lett. B 833, 137378 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      8
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20R%C3%A9nyi%20universality%20formula%20of%20charged%20flat%20black%20holes%20from%20Hawking-Page%20phase%20transition%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-09",
+    "title": "Evidence for NO violation of the second law in extended black hole thermodynamics",
+    "details": "H. El Moumni, J. Khalloufi and K. Masmar Published in Int. J. Mod. Phys. D 31, no.13, 2250100 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      9
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Evidence%20for%20NO%20violation%20of%20the%20second%20law%20in%20extended%20black%20hole%20thermodynamics%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-10",
+    "title": "Light deflection by rotating regular black holes with a cosmological constant",
+    "details": "A. Belhaj, H. Belmahi, M. Benali and H. Moumni El Published in Chin. J. Phys. 80, 229-238 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      10
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Light%20deflection%20by%20rotating%20regular%20black%20holes%20with%20a%20cosmological%20constant%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-11",
+    "title": "Insight into the microscopic structure of a quintessential black hole from the quantization concept",
+    "details": "H. Aounallah, H. El Moumni, J. Khalloufi and K. Masmar Published Int. J. Mod. Phys. A 37, no.08, 2250036 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      11
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Insight%20into%20the%20microscopic%20structure%20of%20a%20quintessential%20black%20hole%20from%20the%20quantization%20concept%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-12",
+    "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: II - Grand canonical ensemble",
+    "details": "H. El Moumni and J. Khalloufi Published in Nucl. Phys. B 977, 115731 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      12
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Nonlinear-Maxwell-Yukawa%20de-Sitter%20black%20hole%20thermodynamics%20in%20a%20cavity%3A%20II%20-%20Grand%20canonical%20ensemble%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-13",
+    "title": "Light deflection angle by superentropic black holes",
+    "details": "A. Belhaj, H. Belmahi, M. Benali and H. El Moumni Published in Int. J. Mod. Phys. D 31, no.07, 2250054 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      13
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Light%20deflection%20angle%20by%20superentropic%20black%20holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-14",
+    "title": "Shadows and optical appearance of a power-Yang-Mills black hole surrounded by different accretion disk profiles",
+    "details": "L. Chakhchi, H. El Moumni and K. Masmar Published in Phys. Rev. D 105, no.6, 064031 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      14
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Shadows%20and%20optical%20appearance%20of%20a%20power-Yang-Mills%20black%20hole%20surrounded%20by%20different%20accretion%20disk%20profiles%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-15",
+    "title": "Critical phenomena of charged dilatonic black holes through Rényi statistics approach",
+    "details": "H. El Moumni, K. Masmar and S. Mazzou, Published in Int. J. Mod. Phys. D 31, no.05, 2250040 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      15
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Critical%20phenomena%20of%20charged%20dilatonic%20black%20holes%20through%20R%C3%A9nyi%20statistics%20approach%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-16",
+    "title": "Optical shadows of rotating Bardeen-AdS black holes",
+    "details": "A. Belhaj, H. Belmahi, M. Benali, H. El Moumni, M. A. Essebani and M. B. Sedra Published in Mod. Phys. Lett. A 37, no.06, 2250032 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      16
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Optical%20shadows%20of%20rotating%20Bardeen-AdS%20black%20holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-17",
+    "title": "Thermodynamic and optical behaviors of quintessential Hayward-AdS black holes",
+    "details": "A. Belhaj, M. Benali, H. El Moumni, M. A. Essebani, M. B. Sedra and Y. Sekhmani Published in Int. J. Geom. Meth. Mod. Phys. 19, no.07, 2250096 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      17
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Thermodynamic%20and%20optical%20behaviors%20of%20quintessential%20Hayward-AdS%20black%20holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-22",
+    "title": "Weak deflection angle of light in two classes of black holes in nonlinear electrodynamics via Gauss-Bonnet theorem",
+    "details": "H. El Moumni, K. Masmar and A. Övgün, Published in Int. J. Geom. Meth. Mod. Phys. 19, no.06, 2250094 (2022)",
+    "year": 2022,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      22
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Weak%20deflection%20angle%20of%20light%20in%20two%20classes%20of%20black%20holes%20in%20nonlinear%20electrodynamics%20via%20Gauss-Bonnet%20theorem%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-18",
+    "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: I-Canonical ensemble",
+    "details": "H. El Moumni and J. Khalloufi, Published in Nucl. Phys. B 973, 115593 (2021)",
+    "year": 2021,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      18
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Nonlinear-Maxwell-Yukawa%20de-Sitter%20black%20hole%20thermodynamics%20in%20a%20cavity%3A%20I-Canonical%20ensemble%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-19",
+    "title": "Regular AdS black holes holographic heat engines in a benchmarking scheme",
+    "details": "H. El Moumni and K. Masmar Published in Nucl. Phys. B 973, 115590 (2021)",
+    "year": 2021,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      19
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Regular%20AdS%20black%20holes%20holographic%20heat%20engines%20in%20a%20benchmarking%20scheme%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-20",
+    "title": "Shadows of 5D black holes from string theory",
+    "details": "A. Belhaj, H. Belmahi, M. Benali, W. El Hadri, H. El Moumni and E. Torrente-Lujan, Published in Phys. Lett. B 812, 136025 (2021)",
+    "year": 2021,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      20
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Shadows%20of%205D%20black%20holes%20from%20string%20theory%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-21",
+    "title": "Black hole shadows in M-theory scenarios",
+    "details": "A. Belhaj, M. Benali, A. El Balali, W. El Hadri, H. El Moumni and E. Torrente-Lujan, Published in Int. J. Mod. Phys. D 30, no.04, 2150026 (2021)",
+    "year": 2021,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      21
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Black%20hole%20shadows%20in%20M-theory%20scenarios%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-24",
+    "title": "Cosmological constant effect on charged and rotating black hole shadows",
+    "details": "A. Belhaj, M. Benali, A. E. Balali, W. E. Hadri and H. El Moumni Published in Int. J. Geom. Meth. Mod. Phys. 18, no.12, 2150188 (2021)",
+    "year": 2021,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      24
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Cosmological%20constant%20effect%20on%20charged%20and%20rotating%20black%20hole%20shadows%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-28",
+    "title": "On Einstein-non linear-Maxwell-Yukawa de-Sitter black hole thermodynamics",
+    "details": "M. Chabab, H. El Moumni and J. Khalloufi, Published in Nucl. Phys. B 963, 115305 (2021 )",
+    "year": 2021,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      28
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20Einstein-non%20linear-Maxwell-Yukawa%20de-Sitter%20black%20hole%20thermodynamics%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-23",
+    "title": "On phase transition behaviors of Kerr-Sen black hole",
+    "details": "A. Belhaj, A. El Balali, W. El Hadri, H. El Moumni, M. A. Essebani and M. B. Sedra, Published in Int. J. Geom. Meth. Mod. Phys. 17, no.11, 2050169 (2020)",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      23
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20phase%20transition%20behaviors%20of%20Kerr-Sen%20black%20hole%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-25",
+    "title": "f(R) Gravity Effects on Charged Accelerating AdS Black Holes using Holographic Tools",
+    "details": "A. Belhaj, H. El Moumni and K. Masmar, Published in Adv. High Energy Phys. 2020, 4092730 (2020)",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      25
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22f%28R%29%20Gravity%20Effects%20on%20Charged%20Accelerating%20AdS%20Black%20Holes%20using%20Holographic%20Tools%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-26",
+    "title": "Deflection angle and shadow behaviors of quintessential black holes in arbitrary dimensions",
+    "details": "A. Belhaj, M. Benali, A. El Balali, H. El Moumni and S. E. Ennadifi, Published in Class . Quant. Grav. 37, no.21, 215004 (2020)",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      26
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Deflection%20angle%20and%20shadow%20behaviors%20of%20quintessential%20black%20holes%20in%20arbitrary%20dimensions%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-27",
+    "title": "Thermal Image and Phase Transitions of Charged AdS Black Holes using Shadow Analysis",
+    "details": "A. Belhaj, L. Chakhchi, H. El Moumni, J. Khalloufi and K. Masmar Published in Int. J. Mod. Phys. A 35, no.27, 2050170 (2020)",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      27
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Thermal%20Image%20and%20Phase%20Transitions%20of%20Charged%20AdS%20Black%20Holes%20using%20Shadow%20Analysis%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-29",
+    "title": "Testing the complexity conjecture in regular black holes geometry",
+    "details": "H. El Moumni, K. Masmar. 2020. Published in Nucl.Phys. B950 (2020) 114837",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      29
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Testing%20the%20complexity%20conjecture%20in%20regular%20black%20holes%20geometry%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-30",
+    "title": "Phase Transition of AdS Black hole in Massive Gravity Revisited via New Prescription",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui (Cadi Ayyad U., Marrakech), K. Masmar (Hassan U., II, Ain Chock). Oct 26, 2019. 16 pp. Published in Eur.Phys.J.Plus 135 (2020) no.2, 248",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      30
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Phase%20Transition%20of%20AdS%20Black%20hole%20in%20Massive%20Gravity%20Revisited%20via%20New%20Prescription%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-31",
+    "title": "Probing correlation between photon orbits and phase structure of charged AdS black hole in massive gravity background",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar (Cadi Ayyad U., Marrakech). Feb 1, 2019. 15 pp. Published in Int.J.Mod.Phys. A34 (2020) no.35, 1950231",
+    "year": 2020,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      31
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Probing%20correlation%20between%20photon%20orbits%20and%20phase%20structure%20of%20charged%20AdS%20black%20hole%20in%20massive%20gravity%20background%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-32",
+    "title": "Dark energy effects on charged and rotating black holes",
+    "details": "A. Belhaj (Rabat U.), A. El Balali, W. El Hadri (Ibn Tofail U.), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), M.B. Sedra (Ibn Tofail U.). 2019. Published in Eur.Phys.J.Plus 134 (2019) no.9, 422",
+    "year": 2019,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      32
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Dark%20energy%20effects%20on%20charged%20and%20rotating%20black%20holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-33",
+    "title": "Geometric engineering of qubits from string theory",
+    "details": "A. Belhaj, K. Douhou (Rabat U.), H.El Moumni (Ibn Zohr U., Agadir & Cadi Ayyad U., Marrakech), S.E. Ennadifi (Rabat U.), L. Mansour (Sultan Moulay Slimane U.), A. Segui (Zaragoza U.). 2019. 24 pp. Published in Adv.Stud.Theor.Phys. 13 (2019) 103-126",
+    "year": 2019,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      33
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Geometric%20engineering%20of%20qubits%20from%20string%20theory%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-34",
+    "title": "Phase transitions and geothermodynamics of black holes in dRGT massive gravity",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar (Cadi Ayyad U., Marrakech). Apr 6, 2019. 22 pp. Published in Eur.Phys.J. C79 (2019) no.4, 342",
+    "year": 2019,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      34
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Phase%20transitions%20and%20geothermodynamics%20of%20black%20holes%20in%20dRGT%20massive%20gravity%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-35",
+    "title": "Entanglement entropy and phase portrait of f(R)-AdS black holes in the grand canonical ensemble",
+    "details": "Adil Belhaj, Hasan El Moumni. Nov 20, 2018. 12 pp. Published in Nucl.Phys. B938 (2019) 200-211",
+    "year": 2019,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      35
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Entanglement%20entropy%20and%20phase%20portrait%20of%20f%28R%29-AdS%20black%20holes%20in%20the%20grand%20canonical%20ensemble%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-36",
+    "title": "Anti-de-Sitter-Maxwell-Yang-Mills black holes thermodynamics from nonlocal observables point of view",
+    "details": "Hasan El Moumni (Ibn Zohr U., Agadir & Cadi Ayyad U., Marrakech). Sep 8, 2018. 13 pp. Published in Adv.High Energy Phys. 2019 (2019) 6870793",
+    "year": 2019,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      36
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Anti-de-Sitter-Maxwell-Yang-Mills%20black%20holes%20thermodynamics%20from%20nonlocal%20observables%20point%20of%20view%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-37",
+    "title": "Joule-Thomson Expansion of RN-AdS Black Holes in 𝑓 ( 𝑅 ) gravity",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar, S. Zhizeh (Cadi Ayyad U., Marrakech). Apr 16, 2018. 12 pp. Published in LHEP 02 (2018) 05",
+    "year": 2018,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      37
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Joule-Thomson%20Expansion%20of%20RN-AdS%20Black%20Holes%20in%20%F0%9D%91%93%20%28%20%F0%9D%91%85%20%29%20gravity%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-38",
+    "title": "Chaos in charged AdS black hole extended phase space",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar, S. Zhizeh (Cadi Ayyad U., Marrakech). Apr 11, 2018. 6 pp. Published in Phys.Lett. B781 (2018) 316-321",
+    "year": 2018,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      38
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Chaos%20in%20charged%20AdS%20black%20hole%20extended%20phase%20space%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-39",
+    "title": "Revisiting the phase transition of AdS-Maxwell–power-Yang–Mills black holes via AdS/CFT tools",
+    "details": "H. El Moumni (Ibn Zohr U., Agadir & Cadi Ayyad U., Marrakech). 2018. 9 pp. Published in Phys.Lett. B776 (2018) 124-132",
+    "year": 2018,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      39
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Revisiting%20the%20phase%20transition%20of%20AdS-Maxwell%E2%80%93power-Yang%E2%80%93Mills%20black%20holes%20via%20AdS/CFT%20tools%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-40",
+    "title": "More Insight into Microscopic Properties of RN-AdS Black Hole Surrounded by Quintessence via an Alternative Extended Phase Space",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar, S. Zhizeh (Cadi Ayyad U., Marrakech). Apr 17, 2017. 13 pp. Published in Int.J.Geom.Meth.Mod.Phys. 15 (2018) no.10, 1850171",
+    "year": 2018,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      40
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22More%20Insight%20into%20Microscopic%20Properties%20of%20RN-AdS%20Black%20Hole%20Surrounded%20by%20Quintessence%20via%20an%20Alternative%20Extended%20Phase%20Space%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-41",
+    "title": "Phase Transition of Charged-AdS Black Holes and Quasinormal Modes : a Time Domain Analysis",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar (Cadi Ayyad U., Marrakech & Cadi Ayyad U., Marrakech & Cadi Ayyad U., Marrakech). Jan 3, 2017. 15 pp. Published in Astrophys.Space Sci. 362 (2017) no.10, 192",
+    "year": 2017,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      41
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Phase%20Transition%20of%20Charged-AdS%20Black%20Holes%20and%20Quasinormal%20Modes%20%3A%20a%20Time%20Domain%20Analysis%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-42",
+    "title": "Phase Transition of AdS Black Holes with Non Linear Source in the Holographic Framework",
+    "details": "H. El Moumni (Ibn Zohr U., Agadir & Cadi Ayyad U., Marrakech). 2017. 12 pp. Published in Int.J.Theor.Phys. 56 (2017) no.2, 554-565",
+    "year": 2017,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      42
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Phase%20Transition%20of%20AdS%20Black%20Holes%20with%20Non%20Linear%20Source%20in%20the%20Holographic%20Framework%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-43",
+    "title": "Behavior of quasinormal modes and high dimension RN–AdS black hole phase transition",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), S. Iraoui, K. Masmar (Cadi Ayyad U., Marrakech). Jun 27, 2016. 18 pp. Published in Eur.Phys.J. C76 (2016) no.12, 676",
+    "year": 2016,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      43
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Behavior%20of%20quasinormal%20modes%20and%20high%20dimension%20RN%E2%80%93AdS%20black%20hole%20phase%20transition%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-44",
+    "title": "On thermodynamics of charged AdS black holes in extended phases space via M2-branes background",
+    "details": "M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), K. Masmar (Cadi Ayyad U., Marrakech). Dec 24, 2015. 10 pp. Published in Eur.Phys.J. C76 (2016) no.6, 304",
+    "year": 2016,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      44
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20thermodynamics%20of%20charged%20AdS%20black%20holes%20in%20extended%20phases%20space%20via%20M2-branes%20background%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-45",
+    "title": "On Thermodynamics of AdS Black Holes in M-Theory",
+    "details": "A. Belhaj (Sultan Moulay Slimane U. & Cadi Ayyad U., Marrakech), M. Chabab (Cadi Ayyad U., Marrakech), H. El Moumni (Cadi Ayyad U., Marrakech & Ibn Zohr U., Agadir), K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Sep 7, 2015. 9 pp. Published in Eur.Phys.J. C76 (2016) no.2, 73",
+    "year": 2016,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      45
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20Thermodynamics%20of%20AdS%20Black%20Holes%20in%20M-Theory%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-46",
+    "title": "On Hawking Radiation of 3D Rotating Hairy Black Holes",
+    "details": "A. Belhaj (Cadi Ayyad U., Marrakech & Moulay Ismail U.), M. Chabab, H. El Moumni, K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Aug 19, 2015. 3 pp. Published in Chin.Phys.Lett. 32 (2015) no.10, 100401",
+    "year": 2015,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      46
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20Hawking%20Radiation%20of%203D%20Rotating%20Hairy%20Black%20Holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-47",
+    "title": "On Heat Properties of AdS Black Holes in Higher Dimensions",
+    "details": "A. Belhaj (Sultan Moulay Slimane U.), M. Chabab, H. El Moumni, K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Oujda U. & Ibn Tofail U.), A. Segui (Zaragoza U.). Mar 25, 2015. 15 pp. Published in JHEP 1505 (2015) 149",
+    "year": 2015,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      47
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20Heat%20Properties%20of%20AdS%20Black%20Holes%20in%20Higher%20Dimensions%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-48",
+    "title": "Statistical Physics of 3D Hairy Black Holes",
+    "details": "A. Belhaj (Sultan Moulay Slimane U. & Cadi Ayyad U., Marrakech), M. Chabab, H. El Moumni, K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U. & Oujda U.). Dec 29, 2014. 10 pp. Published in Afr.Rev.Phys. 10 (2015) 0041",
+    "year": 2015,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      48
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Statistical%20Physics%20of%203D%20Hairy%20Black%20Holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-49",
+    "title": "Maxwell's equal-area law for Gauss-Bonnet-Anti-de Sitter black holes",
+    "details": "A. Belhaj (Sultan Moulay Slimane U. & Cadi Ayyad U., Marrakech), M. Chabab, H. El moumni, K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U. & Oujda U.). Dec 5, 2014. 9 pp. Published in Eur.Phys.J. C75 (2015) no.2, 71",
+    "year": 2015,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      49
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Maxwell%27s%20equal-area%20law%20for%20Gauss-Bonnet-Anti-de%20Sitter%20black%20holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-50",
+    "title": "Ehrenfest scheme of higher dimensional AdS black holes in the third-order Lovelock–Born–Infeld gravity",
+    "details": "A. Belhaj (Sultan Moulay Slimane U. & Cadi Ayyad U., Marrakech), M. Chabab, H. EL Moumni, K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). May 13, 2014. 17 pp. Published in Int.J.Geom.Meth.Mod.Phys. 12 (2015) no.10, 1550115",
+    "year": 2015,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      50
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Ehrenfest%20scheme%20of%20higher%20dimensional%20AdS%20black%20holes%20in%20the%20third-order%20Lovelock%E2%80%93Born%E2%80%93Infeld%20gravity%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-51",
+    "title": "On Thermodynamics of 2d Black Holes in Brane Inflationary Potentials",
+    "details": "A. Belhaj (Moulay Ismail U. & Cadi Ayyad U., Marrakech), M. Chabab, H. El Moumni (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.), A. Segui (Zaragoza U.). Nov 12, 2013. 13 pp. Published in Int.J.Geom.Meth.Mod.Phys. 11 (2014) no.5, 1450047",
+    "year": 2014,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      51
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20Thermodynamics%20of%202d%20Black%20Holes%20in%20Brane%20Inflationary%20Potentials%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-54",
+    "title": "Critical Behaviors of 3D Black Holes with a Scalar Hair",
+    "details": "A. Belhaj (Sultan Moulay Slimane U.), M. Chabab, H. El Moumni, K. Masmar (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Jun 11, 2013. 11 pp. Published in Int.J.Geom.Meth.Mod.Phys. 12 (2014) no.02, 1550017",
+    "year": 2014,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      54
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22Critical%20Behaviors%20of%203D%20Black%20Holes%20with%20a%20Scalar%20Hair%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-52",
+    "title": "On non-commutative black holes and their thermodynamics in arbitrary dimension",
+    "details": "Adil Belhaj, M. Chabab, H. El Moumni, M.B. Sedra. 2013. 8 pp. Published in Afr.Rev.Phys. 8 (2013) 0017",
+    "year": 2013,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      52
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20non-commutative%20black%20holes%20and%20their%20thermodynamics%20in%20arbitrary%20dimension%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-53",
+    "title": "The Thermodynamical Behaviors of Kerr—Newman AdS Black Holes",
+    "details": "A. Belhaj (Moulay Ismail U. & Cadi Ayyad U., Marrakech), M. Chabab, H.El Moumni, L. Medari (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Jul 28, 2013. 5 pp. Published in Chin.Phys.Lett. 30 (2013) 090402",
+    "year": 2013,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      53
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22The%20Thermodynamical%20Behaviors%20of%20Kerr%E2%80%94Newman%20AdS%20Black%20Holes%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-55",
+    "title": "On Thermodynamics of AdS Black Holes in Arbitrary Dimensions",
+    "details": "A. Belhaj (CPM, Rabat), M. Chabab, H. El Moumni (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Oct 2012. 8 pp. Published in Chin.Phys.Lett. 29 (2012) 100401",
+    "year": 2012,
+    "yearBasis": "archived-publication",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      55
+    ],
+    "url": "https://inspirehep.net/literature?q=find%20title%20%22On%20Thermodynamics%20of%20AdS%20Black%20Holes%20in%20Arbitrary%20Dimensions%22",
+    "linkType": "search"
+  },
+  {
+    "id": "weebly-56",
+    "title": "On Schwarzschild black holes in a D-dimensional noncommutative space",
+    "details": "M. Chabab, H.El Moumni (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Jan 2012. 5 pp. e-Print: arXiv:1201.2547",
+    "year": 2012,
+    "yearBasis": "archived-preprint",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      56
+    ],
+    "arxiv": "1201.2547",
+    "url": "https://arxiv.org/abs/1201.2547",
+    "linkType": "arxiv"
+  },
+  {
+    "id": "weebly-57",
+    "title": "On Hawking radiation of 2d Liouville black hole",
+    "details": "M. Chabab, H. El Moumni (Cadi Ayyad U., Marrakech), M.B. Sedra (Ibn Tofail U.). Sep 2011. 5 pp. e-Print: arXiv:1109.3209",
+    "year": 2011,
+    "yearBasis": "archived-preprint",
+    "source": "weebly-archive",
+    "sourceOrdinals": [
+      57
+    ],
+    "arxiv": "1109.3209",
+    "url": "https://arxiv.org/abs/1109.3209",
+    "linkType": "arxiv"
+  }
+]

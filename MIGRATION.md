@@ -14,3 +14,7 @@ Validation: static links, anchors, translations and JavaScript syntax pass. Brow
 Four expanded research directions in English and French, section navigation, and seven representative article links. Existing homepage selection and publication records retained. Static links, anchors, translations and JavaScript syntax checked.
 
 Next: stage 5A, import and deduplicate the archived bibliography; stage 5B, update and verify its metadata.
+
+## Stage 5A — Bibliography import
+57 archived notices plus six selected records, with one arXiv duplicate merged: 62 distinct entries. All source entries are accounted for in the import report. Publication page has year navigation, bilingual labels, direct identifiers when known and explicit INSPIRE title-search links otherwise. The homepage’s six selected publications and BibTeX file are unchanged.
+Next: stage 5B — verify publication statuses, enrich metadata and add filters.

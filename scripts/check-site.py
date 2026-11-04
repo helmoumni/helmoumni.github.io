@@ -29,7 +29,7 @@ for file,parsed_page in pages.items():
         if parsed.fragment and target in pages:
             assert parsed.fragment in pages[target].ids, f'Missing anchor in {file}: {ref}'
 page=pages[(root/'index.html').resolve()]
-js="global.window={};require('./assets/content.js');require('./assets/research-content.js');console.log(JSON.stringify(window.SITE_CONTENT))"
+js="global.window={};require('./assets/content.js');require('./assets/research-content.js');require('./assets/bibliography-content.js');console.log(JSON.stringify(window.SITE_CONTENT))"
 content=json.loads(subprocess.check_output(['node','-e',js],cwd=root,text=True))
 for language in ['en','fr']:
     missing={key for parsed_page in pages.values() for key in parsed_page.i18n}-set(content['translations'][language])
