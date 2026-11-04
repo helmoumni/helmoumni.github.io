@@ -1,0 +1,596 @@
+{
+  "source": "Weebly teaching.html, archive du 2 novembre 2026",
+  "resources": [
+    {
+      "id": "stat-9",
+      "sourceIndex": 9,
+      "title": "Polycopié de cours",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/LGgCkDKB#iLUhemY99pZoIvxDhEEvzvcoMy54A51-xoQHKb5RrXY",
+      "sourceLabels": [
+        "Polycopié de Cours"
+      ]
+    },
+    {
+      "id": "stat-10",
+      "sourceIndex": 10,
+      "title": "Chapitre 0 — Introduction générale et discussions",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/KbpSxJ5Z#p9KVJCYTI3fusN3tyIk6gayYpPBtHfubQvfk5IRlO1w",
+      "sourceLabels": [
+        ": Introduction Générale & Discussions"
+      ]
+    },
+    {
+      "id": "stat-11",
+      "sourceIndex": 11,
+      "title": "Chapitre 1 — Probabilités et statistiques",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/XWZ3mYwI#HLu_Zq7kE2dTxps5G7dopvcSHJPSH0XbwlQWX9GTHO8",
+      "sourceLabels": [
+        "Notions fondamentales de probabilités et statistiques"
+      ]
+    },
+    {
+      "id": "stat-12",
+      "sourceIndex": 12,
+      "title": "Chapitre 2 — Description statistique et entropie microcanonique",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/jC5SESCC#jEX4D6KpGOaYLN3rIHJTLqQozHxuSpi32GspgHJlNxQ",
+      "sourceLabels": [
+        "Description statistique et entropie microcanonique des systèmes"
+      ]
+    },
+    {
+      "id": "stat-13",
+      "sourceIndex": 13,
+      "title": "Concept 3 — Espace des phases",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/fKwDHTqI#Y_h0BLehrDlnXHZGMuoIER_vgf4oi4577F52pe7Ev2U",
+      "sourceLabels": [
+        "L’espace de phase"
+      ]
+    },
+    {
+      "id": "stat-14",
+      "sourceIndex": 14,
+      "title": "Concept 4 — Ensemble microcanonique",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/qWI0kZqL#kvn3pgBx8GafSzCWc-QQDS5gngh_6WVBnEX4Ix6p1pw",
+      "sourceLabels": [
+        "L'ensemble microcanonique"
+      ]
+    },
+    {
+      "id": "stat-15",
+      "sourceIndex": 15,
+      "title": "Concept 5 — Entropie",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/ua5VgDAJ#TQCuFxEprvi-fPH5kckYeywuFJbWCzVwmALjIgzF0Mg",
+      "sourceLabels": [
+        "L'entropie"
+      ]
+    },
+    {
+      "id": "stat-16",
+      "sourceIndex": 16,
+      "title": "Concept 6 — Conditions d’équilibre",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/6b4yibqR#zoV7JpaJ49oIUl6G97S-_y_aqmVwEmKF2C62lSOMoUY",
+      "sourceLabels": [
+        "Conditions d'équilibre"
+      ]
+    },
+    {
+      "id": "stat-17",
+      "sourceIndex": 17,
+      "title": "Concept 7 — Entropie thermodynamique et entropie statistique",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/XTRRBQSA#6XRUWOrOI_Y3yA1wsgiqh3Gm0WgOnJnEtVbVgyQguoo",
+      "sourceLabels": [
+        "Identification de l'entropie thermodynamique et de l'entropie statistique"
+      ]
+    },
+    {
+      "id": "stat-18",
+      "sourceIndex": 18,
+      "title": "Complément du chapitre 2 — Exemples",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/ybpUAbBB#fxf_LVYtbYlj8rMC5lNBjE2OGWt_UT7P1ZJNP7SW0r0",
+      "sourceLabels": [
+        "Exemples"
+      ]
+    },
+    {
+      "id": "stat-19",
+      "sourceIndex": 19,
+      "title": "Concept 8 — Ensemble canonique",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/6HgQRDKT#kVYNenCa2WsIQhCf806U9hU6Cax2dBKQFYGu4zBwLks",
+      "sourceLabels": [
+        "L’Ensemble Canonique"
+      ]
+    },
+    {
+      "id": "stat-20",
+      "sourceIndex": 20,
+      "title": "Concept 9 — Propriétés de la fonction de partition",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/eWAQhZJJ#4tGD3QQiaqdwrE_SF1xISX9UVMaue9d4mcV4n1clano",
+      "sourceLabels": [
+        "Propri",
+        "étés de la fonction de",
+        "partition"
+      ]
+    },
+    {
+      "id": "stat-21",
+      "sourceIndex": 21,
+      "title": "Concept 10 — Capacité calorifique des solides I",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/2aQEQYzD#OI4LPRfx4PtsumsimAESyu8W6xKQ-8Z_1HN5LHdtF_U",
+      "sourceLabels": [
+        "Capacité calorifique des Solides I"
+      ]
+    },
+    {
+      "id": "stat-22",
+      "sourceIndex": 22,
+      "title": "Concept 11 — Paramagnétisme",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/iOJjhDjR#ZUX9XdyZ9-O1Nd21pZkLwMdU-5diT3AWjWm9f3D2f5A",
+      "sourceLabels": [
+        "Le Paramagnétisme"
+      ]
+    },
+    {
+      "id": "stat-23",
+      "sourceIndex": 23,
+      "title": "Concept 12 — Ensemble grand canonique",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/DCAm3DwB#rnsBSbF5G4MN3LoJSQOfHJeya7v818ZQE2VEMxdw7Mc",
+      "sourceLabels": [
+        "L'Ensemble Grand Canonique"
+      ]
+    },
+    {
+      "id": "stat-24",
+      "sourceIndex": 24,
+      "title": "Concept 13 — Statistiques quantiques et limite classique",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/KTpyxSoY#Cp-65l8_GYB-_lSu2MHpPg1z2yXZULq-ESzfaHsCrrk",
+      "sourceLabels": [
+        "Statistiques Quantiques Et Limite Classique"
+      ]
+    },
+    {
+      "id": "stat-25",
+      "sourceIndex": 25,
+      "title": "Concept 14 — Gaz de photons",
+      "group": "cours-anciens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/6a4EWBxZ#8lXs9-whCJ-mgtZ0e1tCT410wEJoAOQQqW87PTtSxq4",
+      "sourceLabels": [
+        "Le Gaz de Photons"
+      ]
+    },
+    {
+      "id": "stat-26",
+      "sourceIndex": 26,
+      "title": "Chapitre 0 — Introduction générale et discussions",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/uLwl1CAJ#zLwehcliL9LRgzk6NT5EK9UR4bhVNZK_V9ovR8xP4A4",
+      "sourceLabels": [
+        "INTRODUCTION GÉNÉRALE & DISCUSSIONS"
+      ]
+    },
+    {
+      "id": "stat-27",
+      "sourceIndex": 27,
+      "title": "Chapitre 1 — Probabilités et statistiques",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/re5EiDha#ZQg0uzeTqGeExK97Nv0Mj_P5OLobuofj1iZOM9fIsZ0",
+      "sourceLabels": [
+        "NOTIONS FONDAMENTALES DE PROBABILITÉS ET STATISTIQUES"
+      ]
+    },
+    {
+      "id": "stat-28",
+      "sourceIndex": 28,
+      "title": "Chapitre 2 — Description statistique et entropie microcanonique",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/yTBxgJST#0Ulz1INwJXDDZpNjx--P9wfBnWhYBdwoazUp2_jy2Kw",
+      "sourceLabels": [
+        "DESCRIPTION STATISTIQUE ET ENTROPIE MICROCANONIQUE DES SYSTÈMES"
+      ]
+    },
+    {
+      "id": "stat-29",
+      "sourceIndex": 29,
+      "title": "Concept 3 — Espace des phases",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/PC5lAQpZ#kmgpR3vNAdg5HO4OpuEaJu0Q4ePWhD8NoQbY3tqroTM",
+      "sourceLabels": [
+        "L’ESPACE DE PHASE"
+      ]
+    },
+    {
+      "id": "stat-30",
+      "sourceIndex": 30,
+      "title": "Concept 4 — Ensemble microcanonique",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/TPojCIba#AwPjz7TdETm0oL8yMDcmfUGN0lU2v-amVQ8ruhmcdeA",
+      "sourceLabels": [
+        "L'ENSEMBLE MICROCANONIQUE"
+      ]
+    },
+    {
+      "id": "stat-31",
+      "sourceIndex": 31,
+      "title": "Concept 5 — Entropie",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/PfZAXA7J#3N_iogenfJKK0FdwzSxtBaYWHnyf1gYWB1qljbs0_RY",
+      "sourceLabels": [
+        "L'ENTROPIE"
+      ]
+    },
+    {
+      "id": "stat-32",
+      "sourceIndex": 32,
+      "title": "Concept 6 — Conditions d’équilibre",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/WWIhxBqC#ivOOvT3BDSUFSnEYkURZfRRFkQ-G6NJ1iB6-Gobx034",
+      "sourceLabels": [
+        "CONDITIONS D'ÉQUILIBRE"
+      ]
+    },
+    {
+      "id": "stat-33",
+      "sourceIndex": 33,
+      "title": "Concept 7 — Entropie thermodynamique et entropie statistique",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/GLRmELLL#IjuD3YzYcU2IFsWGlOWK5ZODjQUHughsSXNbdCqFfDQ",
+      "sourceLabels": [
+        "IDENTIFICATION DE L'ENTROPIE THERMODYNAMIQUE ET DE L'ENTROPIE STATISTIQUE"
+      ]
+    },
+    {
+      "id": "stat-34",
+      "sourceIndex": 34,
+      "title": "Complément — Oscillateur harmonique quantique",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/GS4CBJJY#KKUc6NYdYkTwSV7vfiMTs0CkFRcHyM2Z5o24_csqyms",
+      "sourceLabels": [
+        "COMPLÉMENT DE COURS : OSCILLATEUR HARMONIQUE QUANTIQUE"
+      ]
+    },
+    {
+      "id": "stat-35",
+      "sourceIndex": 35,
+      "title": "Concept 8 — Ensemble canonique",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/ufp3SYzS#rJO9dKZJvvmP_n1Nqf5PMSE-Y0zn6UuLCQtpwzD1wnY",
+      "sourceLabels": [
+        "L’ENSEMBLE CANONIQUE"
+      ]
+    },
+    {
+      "id": "stat-36",
+      "sourceIndex": 36,
+      "title": "Concept 9 — Propriétés de la fonction de partition",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/XCIF0ICD#d7m_zaPc5DyxdPNj2AlD2xQ0MYLWnQC9IeeR9Brat0k",
+      "sourceLabels": [
+        "PROPRI",
+        "ÉTÉS DE LA FONCTION DE",
+        "PARTITION"
+      ]
+    },
+    {
+      "id": "stat-37",
+      "sourceIndex": 37,
+      "title": "Concept 10 — Capacité calorifique des solides I",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/Kao3AQZK#f7RiMv1p98jMQ5DySWySZNqkUiyKzroibdMR0MmBqsU",
+      "sourceLabels": [
+        "CAPACITÉ CALORIFIQUE DES SOLIDES I"
+      ]
+    },
+    {
+      "id": "stat-38",
+      "sourceIndex": 38,
+      "title": "Concept 11 — Paramagnétisme",
+      "group": "cours-2025",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/WOYi3a4Q#-gtj68iOJ-j7k1i5ie6hPbtUxNJPX9GEaTf-JSJOyKs",
+      "sourceLabels": [
+        "LE PARAMAGNÉTISME"
+      ]
+    },
+    {
+      "id": "stat-39",
+      "sourceIndex": 39,
+      "title": "Polycopié de TD / annales — lien commun dans l’archive",
+      "group": "td",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/uGJAHChL#3t341e-qiWU5Xrxg4l5IJjIwpgD4Mb7aajA0TMtTxcg",
+      "sourceLabels": [
+        "Annales d'exams",
+        "Polycopié de TD"
+      ]
+    },
+    {
+      "id": "stat-40",
+      "sourceIndex": 40,
+      "title": "Série 1",
+      "group": "td",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/GD5mHA7A#-nuA0LG9v2kdv44Ig1Yu8yWwu13wE2zj7K9yT9FwyxI",
+      "sourceLabels": [
+        "Série_1"
+      ]
+    },
+    {
+      "id": "stat-41",
+      "sourceIndex": 41,
+      "title": "Série 2",
+      "group": "td",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/KT5kVCDY#F_ZLjKNEBrZsak6kV7HhLSjSGdTZ9GfCzQ5wt3k9TPk",
+      "sourceLabels": [
+        "Série_2"
+      ]
+    },
+    {
+      "id": "stat-42",
+      "sourceIndex": 42,
+      "title": "Série 3",
+      "group": "td",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/zWgFjZrI#kHth6a1yqlxxVtfxBG7krMWz0m6Y79fVPfqJINEm9mI",
+      "sourceLabels": [
+        "Série_3",
+        ""
+      ]
+    },
+    {
+      "id": "stat-43",
+      "sourceIndex": 43,
+      "title": "Série 3 — Détails de l’exercice 5",
+      "group": "td",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/2PJDRT5L#x9Ndbh_NrV-1jMHAjmQ7h9lxUOHO5cOv8oW_nVvFwJU",
+      "sourceLabels": [
+        "détails Ex5 série 3"
+      ]
+    },
+    {
+      "id": "stat-44",
+      "sourceIndex": 44,
+      "title": "Série 4",
+      "group": "td",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/OGozEAwL#b_kZ45E5WVomCeQZXrgFdK5DukP5umenLfgAq8DBtpY",
+      "sourceLabels": [
+        "Série_4"
+      ]
+    },
+    {
+      "id": "stat-45",
+      "sourceIndex": 45,
+      "title": "2020–2021 — Correction de l’examen",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/qapA1L4K#m4N7I6Mi_M6uKyh1ruuQqBxvCn47OUI9bO7hRbkOrMw",
+      "sourceLabels": [
+        "Correction  D'examen2020-2021"
+      ]
+    },
+    {
+      "id": "stat-46",
+      "sourceIndex": 46,
+      "title": "2020–2021 — Correction du rattrapage",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/2SJyAJoL#e1FHj2heTbdVO_axOwF7rgwpxvgKScDk5enU0OUCHMk",
+      "sourceLabels": [
+        "Correction De Rattrapage"
+      ]
+    },
+    {
+      "id": "stat-47",
+      "sourceIndex": 47,
+      "title": "2021–2022 — Correction de l’examen",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/CLoWGYJQ#5gPQPgun73W_TN3pjwJ8X306JbuIsLOv1yy1PpTKFak",
+      "sourceLabels": [
+        "Correction D'examen2021-2022"
+      ]
+    },
+    {
+      "id": "stat-48",
+      "sourceIndex": 48,
+      "title": "2021–2022 — Correction du rattrapage",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/LHwBUSDT#Xv0WjcE6q53MvhZ5AF2TnvELpaJQHO6_apesqNjG3-s",
+      "sourceLabels": [
+        "Correction De Rattrapage"
+      ]
+    },
+    {
+      "id": "stat-49",
+      "sourceIndex": 49,
+      "title": "2022–2023 — Correction de l’examen",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/fOYiBJiR#OgPoUDMKKXcykzbSgFxjO84IxLhkVXicn8f2YJbB0dg",
+      "sourceLabels": [
+        "Correction D'examen2022-2023"
+      ]
+    },
+    {
+      "id": "stat-50",
+      "sourceIndex": 50,
+      "title": "2022–2023 — Correction du rattrapage",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/rTxEABQB#PiNg3ieC8D3k7xPnjGwWvP970o7qYkWRnFcwKvgiyNo",
+      "sourceLabels": [
+        "Correction De Rattrapage"
+      ]
+    },
+    {
+      "id": "stat-51",
+      "sourceIndex": 51,
+      "title": "2023–2024 — Correction de l’examen",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/eCRGlJCQ#wwno5AOH-RrJ6ozc_UFciZcZz5z1niJXudoz9Ly1LHc",
+      "sourceLabels": [
+        "Correction D'examen2023-2024"
+      ]
+    },
+    {
+      "id": "stat-52",
+      "sourceIndex": 52,
+      "title": "2023–2024 — Correction du rattrapage",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/vKYCmQIL#GECveGSctkLl5R2nCBrXCvqaxaW2v8lQELzSTDqRInA",
+      "sourceLabels": [
+        "Correction De Rattrapage"
+      ]
+    },
+    {
+      "id": "stat-53",
+      "sourceIndex": 53,
+      "title": "2024–2025 — Correction de l’examen",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/CKBVHLhB#NfsXe58GJRsXMxBlHjrf-yIr7WicEa6TKffP05gdlUw",
+      "sourceLabels": [
+        "Correction D'examen2024-2025"
+      ]
+    },
+    {
+      "id": "stat-54",
+      "sourceIndex": 54,
+      "title": "2024–2025 — Correction du rattrapage",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/vWoQnSLI#BgH_QM9kS48N8Gcj3Fvhy5o6q1y-0mw0smpfFu5gPsA",
+      "sourceLabels": [
+        "Correction De Rattrapage"
+      ]
+    },
+    {
+      "id": "stat-55",
+      "sourceIndex": 55,
+      "title": "2025–2026 — Correction de l’examen",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/6WZwXbxD#r084343N7Yh9kCkJY5sRSI23jSGD-_plDLNgPQN5CTU",
+      "sourceLabels": [
+        "Correction D'examen2025-2026"
+      ]
+    },
+    {
+      "id": "stat-56",
+      "sourceIndex": 56,
+      "title": "2025–2026 — Correction du rattrapage",
+      "group": "examens",
+      "kind": "Document · MEGA",
+      "url": "https://mega.nz/file/qXZ20aqa#MkvbQF4C0b_J7OV3Q4WvuLuw0maDHZU3yA__9MC-Wkw",
+      "sourceLabels": [
+        "Correction De Rattrapage"
+      ]
+    },
+    {
+      "id": "video-1",
+      "title": "Vidéo de cours 1",
+      "group": "videos",
+      "kind": "YouTube",
+      "url": "https://www.youtube.com/watch?v=EP0VGcuVZfc&t=1362s"
+    },
+    {
+      "id": "video-2",
+      "title": "Vidéo de cours 2",
+      "group": "videos",
+      "kind": "YouTube",
+      "url": "https://www.youtube.com/watch?v=odhfeZ4vNbA"
+    },
+    {
+      "id": "video-4",
+      "title": "Vidéo de cours 4",
+      "group": "videos",
+      "kind": "YouTube",
+      "url": "https://www.youtube.com/watch?v=gM7Ljhj9nI0"
+    },
+    {
+      "id": "video-5",
+      "title": "Vidéo de cours 5",
+      "group": "videos",
+      "kind": "YouTube",
+      "url": "https://www.youtube.com/watch?v=jKXMSTtlRfM"
+    },
+    {
+      "id": "video-6",
+      "title": "Vidéo de cours 6",
+      "group": "videos",
+      "kind": "YouTube",
+      "url": "https://www.youtube.com/watch?v=uq_05y4EWa0&t=22s"
+    },
+    {
+      "id": "tenet",
+      "title": "Tenet — Illustration de l’inversion temporelle",
+      "group": "outils",
+      "kind": "Vidéo",
+      "url": "https://www.youtube.com/watch?v=4xj0KRqzo-0&t=126s"
+    },
+    {
+      "id": "tunnel",
+      "title": "Effet tunnel et loi de Geiger–Nuttall — Simulation",
+      "group": "outils",
+      "kind": "Zenodo",
+      "url": "https://zenodo.org/records/17444122"
+    }
+  ],
+  "missing": [
+    {
+      "id": "video-3",
+      "label": "Vidéo de cours 3",
+      "reason": "Élément présent dans la source, sans attribut href."
+    }
+  ],
+  "availability": "Liens repris de l’archive ; disponibilité des documents externes non vérifiée."
+}
