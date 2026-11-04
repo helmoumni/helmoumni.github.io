@@ -4,6 +4,8 @@ root=Path(__file__).resolve().parents[1]
 shell=(root/'templates/page.html').read_text()
 pages=json.loads((root/'templates/pages.json').read_text())
 for path,(en,fr,body) in pages.items():
+    if path == 'research.html':
+        body = (root/'templates/research.html').read_text()
     prefix='../' if path.startswith('teaching/') else ''
     page=shell.replace('{{CONTENT}}',body)
     # Assets always live in the root assets folder.
@@ -31,6 +33,13 @@ for path,(en,fr,body) in pages.items():
         page=page.replace('href="#publications"','href="publications.html"')
     else:
         page=page.replace('</main>','<div class="container section-links"><a class="text-link" href="teaching/index.html" data-i18n="browseCourses">Browse courses</a></div></main>')
+    if path == 'research.html':
+        page = page.replace('<script src="assets/content.js"></script>', '<script src="assets/content.js"></script><script src="assets/research-content.js"></script>')
+        def minimal_schema(match):
+            data = json.loads(match[1])
+            data.pop('email', None)
+            return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + '</script>'
+        page = re.sub(r'<script type="application/ld\+json">(.*?)</script>', minimal_schema, page)
     (root/path).parent.mkdir(exist_ok=True,parents=True)
     (root/path).write_text(page)
 urls=['https://helmoumni.github.io/'+('' if p=='index.html' else p) for p in pages]+['https://helmoumni.github.io/teaching/pendule.html']

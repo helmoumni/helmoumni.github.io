@@ -6,6 +6,11 @@ Stages 1 and 2 completed. Stage 3 partially published on 4 November 2026:
 - English/French translations added; current Full Professor rank preserved.
 - Portrait, teaching pages, publication records and pendulum unchanged.
 
-Pending: original archived CV and postal address, prepared on local branch stage3-full-prepared. Automated approval rejected public disclosure of CV contact details; explicit confirmation in the current conversation is required before publication. The CV must remain clearly identified as historical and unupdated.
+CV excluded at the author’s request. Contact/address update left pending; stage 4 does not modify it.
 
 Validation: static links, anchors, translations and JavaScript syntax pass. Browser rendering could not be tested because Chromium socket creation is restricted.
+
+## Stage 4 — Research
+Four expanded research directions in English and French, section navigation, and seven representative article links. Existing homepage selection and publication records retained. Static links, anchors, translations and JavaScript syntax checked.
+
+Next: stage 5A, import and deduplicate the archived bibliography; stage 5B, update and verify its metadata.

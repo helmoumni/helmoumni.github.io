@@ -17,3 +17,6 @@ The portrait is the author's supplied professional portrait. The thematic drawin
 
 ## Stage 3 — 4 November 2026
 Home academic links and About employment, education and CERN visit come from the Weebly archive captured on 2 November 2026. Current Full Professor rank is retained from the existing site. Undated former responsibilities are not presented as current. INSPIRE and arXiv links are name searches, not verified author identifiers. Web of Science uses ResearcherID T-6745-2019 recorded in the archive. External platforms may require login. CV and postal-address publication remain pending.
+
+## Stage 4 — Research, 4 November 2026
+Four research directions synthesize the archived Home topics and Research & Publications bibliography, retaining the current site’s QPO and observational themes. Representative citations reuse the six records already in assets/content.js; arXiv:2301.08321 is explicitly recorded in the archive. QNM, Hawking radiation, higher-dimensional and holographic heat-engine themes are documented in the archived bibliography. This stage does not claim an exhaustive or newly verified bibliography; full import and metadata updates belong to stages 5A and 5B. No unpublished projects are disclosed.
