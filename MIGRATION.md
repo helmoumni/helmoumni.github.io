@@ -35,3 +35,6 @@ Expanded the tools page with the existing pendulum laboratory, its preparation/m
 
 ## Stage 9 — Academic activities
 The former placeholder is replaced by a bilingual activities page covering dated research leadership, editorial and peer-review service, doctoral supervision, archived collaborators, the CERN visit, and three events referenced by the archived site. The 2024 “Black holes inside and out” poster is restored as a downloadable PDF. The ASP and ICS3EIS entries explicitly state that the archive does not establish personal participation. Historical appointments are labelled as archival rather than current.
+
+## Stage 10 — Final audit
+Added unique bilingual descriptions for all generated pages, Open Graph/Twitter metadata, canonical and social metadata for the standalone pendulum laboratory, richer scholarly profile links in Person structured data, and noindex metadata for the 404 page. Corrected the About and Contact heading hierarchy so every public page has exactly one H1. The site checker now enforces heading, metadata, canonical, sitemap, image-alt, external-link safety and legacy-link rules in addition to its earlier checks.

@@ -34,8 +34,12 @@
     document.querySelectorAll('[data-research-filter]').forEach((a,i)=>a.setAttribute('aria-label',researchLabels[i]));
     document.querySelector('.filters')?.setAttribute('aria-label',language==='en'?'Filter publications':'Filtrer les publications');
     document.title=language==='en'?'Hasan El Moumni — Theoretical physicist':'Hasan El Moumni — Physicien théoricien';
-    document.querySelector('meta[name="description"]').setAttribute('content',language==='en'?'Hasan El Moumni, Full Professor of theoretical physics at Ibn Zohr University, Agadir. Black-hole thermodynamics, generalized entropy and strong-gravity phenomenology.':'Hasan El Moumni, professeur de physique théorique à l’Université Ibn Zohr, Agadir. Thermodynamique des trous noirs, entropies généralisées et gravitation forte.');
     if(document.body.dataset.titleEn)document.title=(language==='fr'?document.body.dataset.titleFr:document.body.dataset.titleEn)+' — Hasan El Moumni';
+    const description=language==='fr'?document.body.dataset.descriptionFr:document.body.dataset.descriptionEn;
+    if(description)document.querySelector('meta[name="description"]')?.setAttribute('content',description);
+    document.querySelector('meta[property="og:title"]')?.setAttribute('content',document.title);
+    if(description)document.querySelector('meta[property="og:description"]')?.setAttribute('content',description);
+    document.querySelector('meta[property="og:locale"]')?.setAttribute('content',language==='fr'?'fr_FR':'en_US');
     if(persist)try{localStorage.setItem('helmoumni-language',language);}catch{}
     renderPublications();
   }
