@@ -1,0 +1,3175 @@
+{
+  "retrieved": "2026-11-04",
+  "query": "https://inspirehep.net/api/literature?q=a%20H.El.Moumni.1&size=250",
+  "records": [
+    {
+      "id": "1811933",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Weak deflection angle of light in two classes of black holes in nonlinear electrodynamics via Gauss–Bonnet theorem"
+        },
+        {
+          "source": "arXiv",
+          "title": "Weak Deflection angle of some classes of non-linear electrodynamics black holes via Gauss-Bonnet Theorem"
+        }
+      ],
+      "authors": [
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Övgün, Ali"
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "Ali.Ovgun.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0219887822500943"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0219887822500943"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "19",
+          "artid": "2250094",
+          "year": 2022,
+          "journal_issue": "06",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        },
+        {
+          "pubinfo_freetext": "Int.J.Geom.Meth.Mod.Phys. (2022) 2250094",
+          "material": "publication"
+        }
+      ],
+      "arxiv": [
+        "2008.06711"
+      ],
+      "date": "2020-08-15",
+      "updated": "2026-09-11T11:28:07.673619+00:00"
+    },
+    {
+      "id": "2858816",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "On M87⁎ and SgrA⁎ observational constraints of Dunkl black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "On M87$^*$ and SgrA$^*$ Observational Constraints of Dunkl Black Holes"
+        }
+      ],
+      "authors": [
+        "Askour, N.",
+        "Belhaj, A.",
+        "Chakhchi, L.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "N.Askour.1",
+        "A.Belhaj.1",
+        "L.Chakhchi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.jheap.2025.100349"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "46",
+          "artid": "100349",
+          "material": "publication",
+          "year": 2025,
+          "journal_title": "JHEAp"
+        }
+      ],
+      "arxiv": [
+        "2412.09196"
+      ],
+      "date": "2024-12-12",
+      "updated": "2026-04-01T15:07:12.336870+00:00"
+    },
+    {
+      "id": "2817286",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Riemann Surfaces and Winding Numbers of Rényi Phase Structure of Charged-Flat Black Holes"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1140/epjc/s10052-024-13511-0"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "84",
+          "pubinfo_freetext": "Eur. Phys. J. C 84, 1141 (2024)",
+          "artid": "1141",
+          "material": "publication",
+          "year": 2024,
+          "page_start": "1141",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "2408.05870"
+      ],
+      "date": "2024-08-11",
+      "updated": "2025-07-20T18:44:05.382163+00:00"
+    },
+    {
+      "id": "1813003",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Black hole shadows in M-theory scenarios"
+        },
+        {
+          "source": "arXiv",
+          "title": "Black Hole Shadows in M-theory Scenarios"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Benali, M.",
+        "El Balali, A.",
+        "El Hadri, W.",
+        "El Moumni, H.",
+        "Torrente-Lujan, E."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Benali.1",
+        "A.El.Balali.1",
+        "W.El.Hadri.1",
+        "H.El.Moumni.1",
+        "E.Torrente-Lujan.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0218271821500267"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0218271821500267"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "30",
+          "artid": "2150026",
+          "year": 2021,
+          "journal_issue": "04",
+          "journal_title": "Int.J.Mod.Phys.D"
+        }
+      ],
+      "arxiv": [
+        "2008.09908"
+      ],
+      "date": "2020-08-22",
+      "updated": "2023-10-03T07:57:19.417480+00:00"
+    },
+    {
+      "id": "2037029",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Optical shadows of rotating Bardeen-AdS black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "Optical Shadows of Rotating Bardeen AdS Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, Adil",
+        "Belmahi, Hajar",
+        "Benali, Mohamed",
+        "El Moumni, Hasan",
+        "Essebani, Mohammed Amine",
+        "Sedra, Moulay Brahim"
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.Belmahi.1",
+        "M.Benali.1",
+        "H.El.Moumni.1",
+        "M.A.Essebani.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0217732322500328"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0217732322500328"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "37",
+          "artid": "2250032",
+          "year": 2022,
+          "journal_issue": "06",
+          "journal_title": "Mod.Phys.Lett.A"
+        },
+        {
+          "pubinfo_freetext": "Modern Physics Letters A (2022)",
+          "material": "publication"
+        }
+      ],
+      "arxiv": [
+        "2202.10892"
+      ],
+      "date": "2022-02-22",
+      "updated": "2024-10-22T12:22:17.629667+00:00"
+    },
+    {
+      "id": "2769174",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Signatures of the accelerating black holes with a cosmological constant from the Sgr <math altimg=\"si32.svg\" display=\"inline\" id=\"d1e1406\"><msup><mrow><mtext>A</mtext></mrow><mrow><mo>⋆</mo></mrow></msup></math> and <math altimg=\"si251.svg\" display=\"inline\" id=\"d1e1416\"><msup><mrow><mtext>M87</mtext></mrow><mrow><mo>⋆</mo></mrow></msup></math> shadow prospects"
+        },
+        {
+          "source": "arXiv",
+          "title": "Signatures of the accelerating black holes with a cosmological constant from the $\\textrm{Sgr~A}^\\star$ and $\\textrm{M87}^\\star$ shadow prospects"
+        }
+      ],
+      "authors": [
+        "Chakhchi, L.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "L.Chakhchi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.dark.2024.101501"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.dark.2024.101501"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "44",
+          "pubinfo_freetext": "Physics of the Dark Universe 44 (2024) 101501",
+          "artid": "101501",
+          "material": "publication",
+          "year": 2024,
+          "journal_title": "Phys.Dark Univ."
+        }
+      ],
+      "arxiv": [
+        "2403.09756"
+      ],
+      "date": "2024-03-14",
+      "updated": "2024-09-25T19:52:45.666574+00:00"
+    },
+    {
+      "id": "1238128",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Critical Behaviors of 3D Black Holes with a Scalar Hair"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0219887815500176"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "12",
+          "artid": "1550017",
+          "year": 2014,
+          "journal_issue": "02",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "1306.2518"
+      ],
+      "date": "2013-06-11",
+      "updated": "2023-03-10T14:54:48.322076+00:00"
+    },
+    {
+      "id": "1245064",
+      "titles": [
+        {
+          "title": "The Thermodynamical Behaviors of Kerr—Newman AdS Black Holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Thermodynamical Behaviors of Kerr-Newman AdS Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "Moumni, H.El",
+        "Medari, L.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "L.Medari.2",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "value": "10.1088/0256-307X/30/9/090402"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "30",
+          "artid": "090402",
+          "year": 2013,
+          "journal_title": "Chin.Phys.Lett."
+        }
+      ],
+      "arxiv": [
+        "1307.7421"
+      ],
+      "date": "2013-07-28",
+      "updated": "2023-03-10T07:55:09.557316+00:00"
+    },
+    {
+      "id": "2702591",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Rényi topology of charged-flat black hole: Hawking-Page and Van-der-Waals phase transitions"
+        },
+        {
+          "source": "arXiv",
+          "title": "Rényi Topology of Charged-flat Black Hole: Hawking-Page and Van-der-Waals Phase Transitions"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.jheap.2024.03.005"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.jheap.2024.03.005"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "42",
+          "pubinfo_freetext": "JHEAp 42 (2024) 63-86",
+          "artid": "216",
+          "material": "publication",
+          "page_end": "86",
+          "year": 2024,
+          "page_start": "63",
+          "journal_title": "JHEAp"
+        }
+      ],
+      "arxiv": [
+        "2309.14069"
+      ],
+      "date": "2023-09-25",
+      "updated": "2025-06-01T13:18:29.305845+00:00"
+    },
+    {
+      "id": "2068101",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Critical phenomena of charged dilatonic black holes through Rényi statistics approach"
+        }
+      ],
+      "authors": [
+        "El Moumni, Hasan",
+        "Masmar, Karima",
+        "Mazzou, Safaa"
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "S.Mazzou.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0218271822500407"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "31",
+          "artid": "2250040",
+          "year": 2022,
+          "journal_issue": "05",
+          "journal_title": "Int.J.Mod.Phys.D"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2026-09-11T11:51:39.387580+00:00"
+    },
+    {
+      "id": "1392476",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "On Thermodynamics of AdS Black Holes in M-Theory"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1140/epjc/s10052-016-3928-9"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "76",
+          "artid": "73",
+          "year": 2016,
+          "page_start": "73",
+          "journal_issue": "2",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "1509.02196"
+      ],
+      "date": "2015-09-07",
+      "updated": "2023-03-09T19:12:54.676892+00:00"
+    },
+    {
+      "id": "1472846",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "Behavior of quasinormal modes and high dimension RN–AdS black hole phase transition"
+        },
+        {
+          "source": "arXiv",
+          "title": "Behavior of Quasinormal Modes and high dimension RN-AdS Black Hole phase transition"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1140/epjc/s10052-016-4518-6"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "76",
+          "artid": "676",
+          "year": 2016,
+          "page_start": "676",
+          "journal_issue": "12",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "1606.08524"
+      ],
+      "date": "2016-06-27",
+      "updated": "2023-03-09T17:49:56.532768+00:00"
+    },
+    {
+      "id": "1333258",
+      "titles": [
+        {
+          "title": "Maxwell's equal-area law for Gauss-Bonnet-Anti-de Sitter black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "Maxwell's equal-area law for Gauss-Bonnet Anti-de Sitter black holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1140/epjc/s10052-015-3299-7"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "75",
+          "artid": "71",
+          "year": 2015,
+          "page_start": "71",
+          "journal_issue": "2",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "1412.2162"
+      ],
+      "date": "2014-12-05",
+      "updated": "2023-03-06T23:27:33.862314+00:00"
+    },
+    {
+      "id": "3111466",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "QPO-based Bayesian constraints on charged particle dynamics around magnetized Schwarzschild black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "QPO-Based Bayesian Constraints on Charged Particle Dynamics Around Magnetized Schwarzschild Black Holes"
+        }
+      ],
+      "authors": [
+        "Ahal, Zakaria.",
+        "El Moumni, Hasan",
+        "Masmar, Karima"
+      ],
+      "authorIds": [
+        "Z.Ahal.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.dark.2026.102311"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.dark.2026.102311"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "52",
+          "pubinfo_freetext": "Phys.Dark Univ. 52 (2026) 102311",
+          "artid": "102311",
+          "material": "publication",
+          "year": 2026,
+          "journal_title": "Phys.Dark Univ."
+        }
+      ],
+      "arxiv": [
+        "2601.17953"
+      ],
+      "date": "2026-01-25",
+      "updated": "2026-04-21T04:07:13.390275+00:00"
+    },
+    {
+      "id": "2071512",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Insight into the microscopic structure of a quintessential black hole from the quantization concept"
+        }
+      ],
+      "authors": [
+        "Aounallah, H.",
+        "El Moumni, H.",
+        "Khalloufi, J.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "H.Aounallah.1",
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0217751X22500361"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "37",
+          "artid": "2250036",
+          "year": 2022,
+          "journal_issue": "08",
+          "journal_title": "Int.J.Mod.Phys.A"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2026-09-11T11:51:58.466503+00:00"
+    },
+    {
+      "id": "2765745",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Deflection angle and light ray trajectories near M-theory black holes"
+        }
+      ],
+      "authors": [
+        "Askour, N.",
+        "Belhaj, A.",
+        "Belmahi, H.",
+        "Benali, M.",
+        "El Moumni, H.",
+        "Sekhmani, Y."
+      ],
+      "authorIds": [
+        "N.Askour.1",
+        "A.Belhaj.1",
+        "H.Belmahi.1",
+        "M.Benali.1",
+        "H.El.Moumni.1",
+        "Y.Sekhmani.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0219887824500191"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "21",
+          "artid": "2450019",
+          "year": 2024,
+          "journal_issue": "01",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2024-03-25T11:00:14.795826+00:00"
+    },
+    {
+      "id": "2697110",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Thermodynamics and phase transition structure of charged black holes in f(R) gravity background from Rényi statistics perception"
+        }
+      ],
+      "authors": [
+        "Demami, F.",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Mazzou, S."
+      ],
+      "authorIds": [
+        "F.Demami.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "S.Mazzou.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2023.116316"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "994",
+          "artid": "116316",
+          "material": "publication",
+          "year": 2023,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2025-07-20T18:19:54.475265+00:00"
+    },
+    {
+      "id": "1355569",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "On Heat Properties of AdS Black Holes in Higher Dimensions"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B.",
+        "Segui, A."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1",
+        "A.Segui.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1007/JHEP05(2015)149"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "05",
+          "artid": "149",
+          "year": 2015,
+          "page_start": "149",
+          "journal_title": "JHEP"
+        }
+      ],
+      "arxiv": [
+        "1503.07308"
+      ],
+      "date": "2015-03-25",
+      "updated": "2023-10-03T08:45:27.232407+00:00"
+    },
+    {
+      "id": "1388752",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "On Hawking Radiation of 3D Rotating Hairy Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1088/0256-307X/32/10/100401"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "32",
+          "artid": "100401",
+          "year": 2015,
+          "journal_issue": "10",
+          "journal_title": "Chin.Phys.Lett."
+        }
+      ],
+      "arxiv": [
+        "1508.04831"
+      ],
+      "date": "2015-08-19",
+      "updated": "2023-03-06T17:44:11.719250+00:00"
+    },
+    {
+      "id": "3160241",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Critical Inter-Horizon Thermal Dynamics on the Lukewarm Reissner-Nordström-de Sitter Manifold"
+        }
+      ],
+      "authors": [
+        "El Moumni, H.",
+        "Khalloufi, J.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [],
+      "publication_info": [],
+      "arxiv": [
+        "2605.26122"
+      ],
+      "date": "2026-05-12",
+      "updated": "2026-06-04T04:19:26.444385+00:00"
+    },
+    {
+      "id": "1718354",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Probing correlation between photon orbits and phase structure of charged AdS black hole in massive gravity background"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0217751X19502312"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0217751X19502312"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "34",
+          "artid": "1950231",
+          "year": 2020,
+          "journal_issue": "35",
+          "journal_title": "Int.J.Mod.Phys.A"
+        }
+      ],
+      "arxiv": [
+        "1902.00557"
+      ],
+      "date": "2019-02-01",
+      "updated": "2023-12-13T08:19:48.150527+00:00"
+    },
+    {
+      "id": "2824810",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "A supersymmetric suspicion from accelerating black hole shadows"
+        },
+        {
+          "source": "arXiv",
+          "title": "A Supersymmetric Suspicion From Accelerating Black Hole Shadows"
+        }
+      ],
+      "authors": [
+        "Chakhchi, L.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "L.Chakhchi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.dark.2024.101731"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "47",
+          "artid": "101731",
+          "material": "publication",
+          "year": 2025,
+          "journal_title": "Phys.Dark Univ."
+        }
+      ],
+      "arxiv": [
+        "2409.02594"
+      ],
+      "date": "2024-09-04",
+      "updated": "2025-05-16T14:52:01.164727+00:00"
+    },
+    {
+      "id": "2070487",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Light deflection by rotating regular black holes with a cosmological constant"
+        },
+        {
+          "source": "arXiv",
+          "title": "Light Deflection by Rotating Regular Black Holes with a Cosmological Constant"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Belmahi, H.",
+        "Benali, M.",
+        "Moumni El, H."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.Belmahi.1",
+        "M.Benali.1",
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.cjph.2022.04.013"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.cjph.2022.04.013"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "80",
+          "artid": "1867",
+          "material": "publication",
+          "page_end": "238",
+          "year": 2022,
+          "page_start": "229",
+          "journal_title": "Chin.J.Phys."
+        }
+      ],
+      "arxiv": [
+        "2204.10150"
+      ],
+      "date": "2022-04-21",
+      "updated": "2023-03-07T02:16:17.854762+00:00"
+    },
+    {
+      "id": "1335748",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Statistical Physics of 3D Hairy Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [],
+      "publication_info": [
+        {
+          "journal_volume": "10",
+          "artid": "0041",
+          "year": 2015,
+          "page_start": "0041",
+          "journal_title": "Afr.Rev.Phys."
+        }
+      ],
+      "arxiv": [
+        "1412.8322"
+      ],
+      "date": "2014-12-29",
+      "updated": "2023-03-06T15:33:55.375170+00:00"
+    },
+    {
+      "id": "2625186",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Light Behaviors around Black Holes in M-theory"
+        }
+      ],
+      "authors": [
+        "Askour, N.",
+        "Belhaj, A.",
+        "Belmahi, H.",
+        "Benali, M.",
+        "El Moumni, H.",
+        "Sekhmani, Y."
+      ],
+      "authorIds": [
+        "N.Askour.1",
+        "A.Belhaj.1",
+        "H.Belmahi.1",
+        "M.Benali.1",
+        "H.El.Moumni.1",
+        "Y.Sekhmani.1"
+      ],
+      "dois": [],
+      "publication_info": [],
+      "arxiv": [
+        "2301.08321"
+      ],
+      "date": "2023-01-19",
+      "updated": "2023-03-10T05:34:49.205815+00:00"
+    },
+    {
+      "id": "1809900",
+      "titles": [
+        {
+          "source": "HINDAWI",
+          "title": "$f(R)$ Gravity Effects on Charged Accelerating AdS Black Holes using Holographic Tools"
+        }
+      ],
+      "authors": [
+        "Belhaj, Adil",
+        "El Moumni, Hasan",
+        "Masmar, Karima"
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1155/2020/4092730"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "2020",
+          "artid": "4092730",
+          "year": 2020,
+          "journal_title": "Adv.High Energy Phys."
+        }
+      ],
+      "arxiv": [
+        "2008.00931"
+      ],
+      "date": "2020-07-01",
+      "updated": "2026-02-09T11:37:17.884444+00:00"
+    },
+    {
+      "id": "2057774",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: II - Grand canonical ensemble"
+        }
+      ],
+      "authors": [
+        "El Moumni, Hasan",
+        "Khalloufi, Jamal"
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "J.Khalloufi.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2022.115731"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "977",
+          "artid": "115731",
+          "material": "publication",
+          "year": 2022,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2026-04-03T11:44:51.670827+00:00"
+    },
+    {
+      "id": "1741647",
+      "titles": [
+        {
+          "source": "Hikari Ltd.",
+          "title": "Geometric engineering of qubits from string theory"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Douhou, K.",
+        "Moumni, H.El",
+        "Ennadifi, S.E.",
+        "Mansour, L.",
+        "Segui, A."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "K.Douhou.1",
+        "H.El.Moumni.1",
+        "S.E.Ennadifi.1",
+        "L.Mansour.1",
+        "A.Segui.1"
+      ],
+      "dois": [
+        {
+          "source": "Hikari Ltd.",
+          "value": "10.12988/astp.2019.912"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "13",
+          "page_end": "126",
+          "year": 2019,
+          "page_start": "103",
+          "journal_title": "Adv.Stud.Theor.Phys."
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2026-02-09T11:16:28.483653+00:00"
+    },
+    {
+      "id": "3181822",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Accretion and neutrino-motivated thermal diagnostics of thermodynamically reconstructed black holes from three-parameter generalized entropy"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Accretion and Neutrino Investigations of Thermodynamically Reconstructed Black Holes from Three-Parameter Generalized Entropy"
+        },
+        {
+          "source": "arXiv",
+          "title": "Accretion and Neutrino-Motivated Thermal Diagnostics of Thermodynamically Reconstructed Black Holes from Three-Parameter Generalized Entropy"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "Hadri, W. El",
+        "El Moumni, H.",
+        "Masmar, K.",
+        "Mazzou, S."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "W.E.Hadri.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "S.Mazzou.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.jheap.2026.100755"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.jheap.2026.100755"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "56",
+          "pubinfo_freetext": "JHEAp 56 (2027) 100755",
+          "artid": "100755",
+          "material": "publication",
+          "year": 2027,
+          "journal_title": "JHEAp"
+        }
+      ],
+      "arxiv": [
+        "2607.16337"
+      ],
+      "date": "2026-07-16",
+      "updated": "2026-10-01T04:56:17.111817+00:00"
+    },
+    {
+      "id": "2054516",
+      "titles": [
+        {
+          "source": "APS",
+          "title": "Shadows and optical appearance of a power-Yang-Mills black hole surrounded by different accretion disk profiles"
+        }
+      ],
+      "authors": [
+        "Chakhchi, L.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "L.Chakhchi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "APS",
+          "value": "10.1103/PhysRevD.105.064031"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "105",
+          "artid": "064031",
+          "material": "publication",
+          "year": 2022,
+          "journal_issue": "6",
+          "journal_title": "Phys.Rev.D"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2023-11-23T11:11:52.215104+00:00"
+    },
+    {
+      "id": "1961241",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: I−Canonical ensemble"
+        },
+        {
+          "source": "Elsevier B.V.",
+          "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: $I$−Canonical ensemble"
+        }
+      ],
+      "authors": [
+        "El Moumni, Hasan",
+        "Khalloufi, Jamal"
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "J.Khalloufi.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2021.115593"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "973",
+          "artid": "115593",
+          "material": "publication",
+          "year": 2021,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2025-01-23T06:03:23.281044+00:00"
+    },
+    {
+      "id": "1728696",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Phase transitions and geothermodynamics of black holes in dRGT massive gravity"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1140/epjc/s10052-019-6850-0"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1140/epjc/s10052-019-6850-0"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "79",
+          "artid": "342",
+          "year": 2019,
+          "page_start": "342",
+          "journal_issue": "4",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "1904.03532"
+      ],
+      "date": "2019-04-06",
+      "updated": "2023-12-06T17:08:03.249766+00:00"
+    },
+    {
+      "id": "2780037",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Thermal chaos of charged-flat black hole via Rényi formalism"
+        },
+        {
+          "source": "arXiv",
+          "title": "Thermal chaos of charged-flat black hole via Rényi formalism"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2024.116606"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1005",
+          "artid": "116606",
+          "material": "publication",
+          "year": 2024,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [
+        "2404.14609"
+      ],
+      "date": "2024-04-22",
+      "updated": "2025-07-20T18:35:49.065994+00:00"
+    },
+    {
+      "id": "1411305",
+      "titles": [
+        {
+          "title": "On thermodynamics of charged AdS black holes in extended phases space via M2-branes background"
+        },
+        {
+          "source": "arXiv",
+          "title": "Thermodynamics of Charged AdS Black Holes in Extended Phases Space via M2-branes Background"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1140/epjc/s10052-016-4155-0"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "76",
+          "artid": "304",
+          "year": 2016,
+          "page_start": "304",
+          "journal_issue": "6",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "1512.07832"
+      ],
+      "date": "2015-12-24",
+      "updated": "2023-12-12T10:45:22.388225+00:00"
+    },
+    {
+      "id": "1253939",
+      "titles": [
+        {
+          "title": "On non-commutative black holes and their thermodynamics in arbitrary dimension"
+        }
+      ],
+      "authors": [
+        "Belhaj, Adil",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [],
+      "publication_info": [
+        {
+          "journal_volume": "8",
+          "artid": "0017",
+          "year": 2013,
+          "page_start": "0017",
+          "journal_title": "Afr.Rev.Phys."
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2023-03-06T16:44:55.431919+00:00"
+    },
+    {
+      "id": "927532",
+      "titles": [
+        {
+          "title": "On Hawking radiation of 2d Liouville black hole"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Hawking radiation of 2d Liouville black hole"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [],
+      "publication_info": [],
+      "arxiv": [
+        "1109.3209"
+      ],
+      "date": "2011-09",
+      "updated": "2023-03-06T14:32:10.550859+00:00"
+    },
+    {
+      "id": "1962897",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Regular AdS black holes holographic heat engines in a benchmarking scheme"
+        }
+      ],
+      "authors": [
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2021.115590"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "973",
+          "artid": "115590",
+          "material": "publication",
+          "year": 2021,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2023-10-03T08:17:58.547375+00:00"
+    },
+    {
+      "id": "2056008",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Light deflection angle by superentropic black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "Light Deflection Angle by Superentropic Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Belmahi, H.",
+        "Benali, M.",
+        "El Moumni, H."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.Belmahi.1",
+        "M.Benali.1",
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0218271822500547"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0218271822500547"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "31",
+          "artid": "2250054",
+          "year": 2022,
+          "journal_issue": "07",
+          "journal_title": "Int.J.Mod.Phys.D"
+        }
+      ],
+      "arxiv": [
+        "2203.11143"
+      ],
+      "date": "2022-03-21",
+      "updated": "2023-10-03T08:17:52.340116+00:00"
+    },
+    {
+      "id": "1670197",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Joule-Thomson Expansion of RN-AdS Black Holes in $f(R)$ gravity"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K.",
+        "Zhizeh, S."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1",
+        "S.Zhizeh.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.31526/LHEP.2.2018.02"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1",
+          "pubinfo_freetext": "Letters in High Energy Physics 02, 05, 2018",
+          "artid": "05",
+          "material": "publication",
+          "year": 2018,
+          "curated_relation": true,
+          "journal_issue": "2",
+          "journal_title": "LHEP"
+        }
+      ],
+      "arxiv": [
+        "1804.10042"
+      ],
+      "date": "2018-04-16",
+      "updated": "2026-04-01T15:57:40.402665+00:00"
+    },
+    {
+      "id": "1752677",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "Dark energy effects on charged and rotating black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "Dark Energy Effects on Charged and Rotating Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "El Balali, A.",
+        "El Hadri, W.",
+        "El Moumni, H.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "A.El.Balali.1",
+        "W.El.Hadri.1",
+        "H.El.Moumni.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "Springer",
+          "value": "10.1140/epjp/i2019-12803-y"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "134",
+          "artid": "422",
+          "year": 2019,
+          "page_start": "422",
+          "journal_issue": "9",
+          "journal_title": "Eur.Phys.J.Plus"
+        }
+      ],
+      "arxiv": [
+        "1912.08687"
+      ],
+      "date": "2019-12-18",
+      "updated": "2023-10-09T12:13:18.167597+00:00"
+    },
+    {
+      "id": "2959046",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "On Rényi microstructural aspects of asymptotically flat charged black holes: A novel duality"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Rényi Microstructural Aspects of Asymptotically Flat Charged Black Holes: A Novel Duality"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2025.117239"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "1022",
+          "artid": "117239",
+          "material": "publication",
+          "year": 2026,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [
+        "2508.07357"
+      ],
+      "date": "2025-08-10",
+      "updated": "2026-01-13T13:28:36.007729+00:00"
+    },
+    {
+      "id": "1807751",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Cosmological constant effect on charged and rotating black hole shadows"
+        },
+        {
+          "source": "arXiv",
+          "title": "Shadows of Charged and Rotating Black Holes with a Cosmological Constant"
+        },
+        {
+          "source": "arXiv",
+          "title": "Cosmological Constant Effect on Charged and Rotating Black Hole Shadows"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Benali, M.",
+        "Balali, A. El",
+        "Hadri, W. El",
+        "El Moumni, H."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Benali.1",
+        "A.E.Balali.1",
+        "W.E.Hadri.1",
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0219887821501887"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "18",
+          "artid": "2150188",
+          "year": 2021,
+          "journal_issue": "12",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "2007.09058"
+      ],
+      "date": "2020-07-17",
+      "updated": "2024-10-22T12:01:22.012410+00:00"
+    },
+    {
+      "id": "1809715",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "On phase transition behaviors of Kerr–Sen black hole"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Phase Transition Behaviors of Kerr-Sen Black Hole"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "El Balali, A.",
+        "El Hadri, W.",
+        "El Moumni, H.",
+        "Essebani, M.A.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.El.Moumni.1",
+        "W.El.Hadri.1",
+        "H.El.Moumni.1",
+        "M.A.Essebani.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0219887820501698"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0219887820501698"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "17",
+          "artid": "2050169",
+          "year": 2020,
+          "journal_issue": "11",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "2007.16083"
+      ],
+      "date": "2020-07-31",
+      "updated": "2023-10-03T08:07:17.095310+00:00"
+    },
+    {
+      "id": "1695651",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Anti-de-Sitter-Maxwell-Yang-Mills black holes thermodynamics from nonlocal observables point of view"
+        }
+      ],
+      "authors": [
+        "El Moumni, Hasan"
+      ],
+      "authorIds": [
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1155/2019/6870793"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "2019",
+          "artid": "6870793",
+          "year": 2019,
+          "journal_title": "Adv.High Energy Phys."
+        }
+      ],
+      "arxiv": [
+        "1809.09961"
+      ],
+      "date": "2018-09-08",
+      "updated": "2023-03-06T19:28:36.647285+00:00"
+    },
+    {
+      "id": "1798712",
+      "titles": [
+        {
+          "source": "IOP",
+          "title": "Deflection angle and shadow behaviors of quintessential black holes in arbitrary dimensions"
+        },
+        {
+          "source": "arXiv",
+          "title": "Deflection Angle and Shadow Behaviors of Quintessential Black Holes in arbitrary Dimensions"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Benali, M.",
+        "El Balali, A.",
+        "El Moumni, H.",
+        "Ennadifi, S.E."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Benali.1",
+        "A.El.Balali.1",
+        "H.El.Moumni.1",
+        "S.E.Ennadifi.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1088/1361-6382/abbaa9"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1088/1361-6382/abbaa9"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "37",
+          "artid": "215004",
+          "year": 2020,
+          "journal_issue": "21",
+          "journal_title": "Class.Quant.Grav."
+        }
+      ],
+      "arxiv": [
+        "2006.01078"
+      ],
+      "date": "2020-06-07",
+      "updated": "2023-10-03T09:22:00.614529+00:00"
+    },
+    {
+      "id": "2840321",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "Nonextensive black hole thermodynamics from generalized Euclidean path integral and Wick’s rotation"
+        },
+        {
+          "source": "arXiv",
+          "title": "Nonextensive Black Hole Thermodynamics from Generalized Euclidean Path Integral and Wick's Rotation"
+        },
+        {
+          "source": "Springer",
+          "title": "Publisher Erratum: Nonextensive black hole thermodynamics from generalized Euclidean path integral and Wick’s rotation [doi: 10.1140/epjc/s10052-025-13816-8]"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "Springer",
+          "value": "10.1140/epjc/s10052-025-13816-8"
+        },
+        {
+          "material": "erratum",
+          "source": "Springer",
+          "value": "10.1140/epjc/s10052-025-13904-9"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "85",
+          "artid": "61",
+          "year": 2025,
+          "page_start": "61",
+          "journal_issue": "1",
+          "journal_title": "Eur.Phys.J.C"
+        },
+        {
+          "journal_volume": "85",
+          "artid": "211",
+          "material": "erratum",
+          "year": 2025,
+          "page_start": "211",
+          "journal_issue": "2",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "2410.11044"
+      ],
+      "date": "2024-10-14",
+      "updated": "2025-07-20T18:48:11.926514+00:00"
+    },
+    {
+      "id": "1667399",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Chaos in charged AdS black hole extended phase space"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K.",
+        "Zhizeh, S."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1",
+        "S.Zhizeh.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.physletb.2018.04.014"
+        },
+        {
+          "value": "10.1016/j.physletb.2018.04.014"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "781",
+          "page_end": "321",
+          "year": 2018,
+          "page_start": "316",
+          "journal_title": "Phys.Lett.B"
+        }
+      ],
+      "arxiv": [
+        "1804.03960"
+      ],
+      "date": "2018-04-11",
+      "updated": "2023-03-07T05:34:02.643725+00:00"
+    },
+    {
+      "id": "1296067",
+      "titles": [
+        {
+          "title": "Ehrenfest scheme of higher dimensional AdS black holes in the third-order Lovelock–Born–Infeld gravity"
+        },
+        {
+          "source": "arXiv",
+          "title": "Ehrenfest Scheme of Higher Dimensional Topological AdS Black Holes in Lovelock-Born-Infeld Gravity"
+        },
+        {
+          "source": "arXiv",
+          "title": "Ehrenfest Scheme of Higher Dimensional Topological AdS Black Holes in The Third Order Lovelock-Born-Infeld Gravity"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "EL Moumni, H.",
+        "Masmar, K.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0219887815501157"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "12",
+          "artid": "1550115",
+          "year": 2015,
+          "journal_issue": "10",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "1405.3306"
+      ],
+      "date": "2014-05-13",
+      "updated": "2023-03-10T08:46:04.495983+00:00"
+    },
+    {
+      "id": "2966337",
+      "titles": [
+        {
+          "source": "APS",
+          "title": "Modified Unruh thermodynamics in emergent gravity: Finite heat capacity and Rényi entropy"
+        },
+        {
+          "source": "arXiv",
+          "title": "Modified Unruh Thermodynamics in Emergent Gravity: Finite Heat Capacity and Rényi Entropy"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "APS",
+          "value": "10.1103/mnm4-mylh"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1103/mnm4-mylh"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "8",
+          "artid": "013260",
+          "material": "publication",
+          "year": 2026,
+          "journal_issue": "1",
+          "journal_title": "Phys.Rev.Res."
+        }
+      ],
+      "arxiv": [
+        "2509.03470"
+      ],
+      "date": "2025-09-03",
+      "updated": "2026-03-10T15:32:34.516865+00:00"
+    },
+    {
+      "id": "1704825",
+      "titles": [
+        {
+          "source": "Elsevier",
+          "title": "Entanglement entropy and phase portrait of f(R)-AdS black holes in the grand canonical ensemble"
+        },
+        {
+          "source": "arXiv",
+          "title": "Entanglement Entropy and Phase Portrait of f(R)-AdS Black Holes in the Grand Canonical Ensemble"
+        }
+      ],
+      "authors": [
+        "Belhaj, Adil",
+        "El Moumni, Hasan"
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "source": "Elsevier",
+          "value": "10.1016/j.nuclphysb.2018.11.010"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.nuclphysb.2018.11.010"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "938",
+          "page_end": "211",
+          "year": 2019,
+          "page_start": "200",
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [
+        "1812.07962"
+      ],
+      "date": "2018-11-20",
+      "updated": "2023-10-03T07:46:34.432449+00:00"
+    },
+    {
+      "id": "1814098",
+      "titles": [
+        {
+          "source": "Elsevier",
+          "title": "Shadows of 5D black holes from string theory"
+        },
+        {
+          "source": "arXiv",
+          "title": "Shadows of 5D Black Holes from String Theory"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Belmahi, H.",
+        "Benali, M.",
+        "El Hadri, W.",
+        "El Moumni, H.",
+        "Torrente-Lujan, E."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "H.Belmahi.1",
+        "M.Benali.1",
+        "W.El.Hadri.1",
+        "H.El.Moumni.1",
+        "E.Torrente-Lujan.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.physletb.2020.136025"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "812",
+          "artid": "136025",
+          "year": 2021,
+          "journal_title": "Phys.Lett.B"
+        }
+      ],
+      "arxiv": [
+        "2008.13478"
+      ],
+      "date": "2020-08-31",
+      "updated": "2023-10-03T08:47:41.599464+00:00"
+    },
+    {
+      "id": "1507828",
+      "titles": [
+        {
+          "source": "CrossRef",
+          "title": "Phase Transition of AdS Black Holes with Non Linear Source in the Holographic Framework"
+        }
+      ],
+      "authors": [
+        "El Moumni, H."
+      ],
+      "authorIds": [
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "value": "10.1007/s10773-016-3197-2"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "56",
+          "page_end": "565",
+          "year": 2017,
+          "page_start": "554",
+          "journal_issue": "2",
+          "journal_title": "Int.J.Theor.Phys."
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2023-03-06T17:57:49.011078+00:00"
+    },
+    {
+      "id": "2032142",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Thermodynamic and optical behaviors of quintessential Hayward-AdS black holes"
+        },
+        {
+          "source": "arXiv",
+          "title": "Thermodynamic and Optical Behaviors of Quintessential Hayward-AdS Black Holes"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Benali, M.",
+        "El Moumni, H.",
+        "Essebani, M.A.",
+        "Sedra, M.B.",
+        "Sekhmani, Y."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Benali.1",
+        "H.El.Moumni.1",
+        "M.A.Essebani.1",
+        "M.B.Sedra.1",
+        "Y.Sekhmani.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0219887822500967"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0219887822500967"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "19",
+          "artid": "2250096",
+          "year": 2022,
+          "journal_issue": "07",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "2202.06290"
+      ],
+      "date": "2022-02-13",
+      "updated": "2023-10-03T08:29:47.040332+00:00"
+    },
+    {
+      "id": "2946526",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "Modeling HF-QPOs in microquasars and AGNs: charged particles around black holes with CDM halos"
+        },
+        {
+          "source": "arXiv",
+          "title": "Modeling HF-QPOs in Microquasars and AGNs: Charged Particles around Black Holes with CDM Halos"
+        },
+        {
+          "source": "arXiv",
+          "title": "Charged Particle Oscillations around a Black Hole Surrounded by CDM Halos"
+        }
+      ],
+      "authors": [
+        "Ahal, Zakaria",
+        "El Moumni, Hasan",
+        "Masmar, Karima"
+      ],
+      "authorIds": [
+        "Z.Ahal.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "Springer",
+          "value": "10.1140/epjc/s10052-025-14830-6"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1140/epjc/s10052-025-14830-6"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "85",
+          "artid": "1090",
+          "year": 2025,
+          "page_start": "1090",
+          "journal_issue": "10",
+          "journal_title": "Eur.Phys.J.C"
+        }
+      ],
+      "arxiv": [
+        "2507.11139"
+      ],
+      "date": "2025-07-15",
+      "updated": "2025-10-08T04:08:37.189136+00:00"
+    },
+    {
+      "id": "1767331",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "Testing the complexity conjecture in regular black holes geometry"
+        },
+        {
+          "source": "Elsevier",
+          "title": "Testing the complexity conjecture in regular black holes geometry"
+        }
+      ],
+      "authors": [
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.nuclphysb.2019.114837"
+        },
+        {
+          "source": "Elsevier",
+          "value": "10.1016/j.nuclphysb.2019.114837"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "950",
+          "artid": "114837",
+          "material": "publication",
+          "year": 2020,
+          "journal_title": "Nucl.Phys.B"
+        },
+        {
+          "journal_volume": "950",
+          "artid": "114837",
+          "year": 2020,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2023-12-06T17:14:53.528227+00:00"
+    },
+    {
+      "id": "1264115",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "On Thermodynamics of 2d Black Holes in Brane Inflationary Potentials"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Sedra, M.B.",
+        "Segui, A."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "M.B.Sedra.1",
+        "A.Segui.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0219887814500479"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "11",
+          "artid": "1450047",
+          "year": 2014,
+          "journal_issue": "5",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "1311.2801"
+      ],
+      "date": "2013-11-12",
+      "updated": "2023-03-06T17:07:20.466511+00:00"
+    },
+    {
+      "id": "2785036",
+      "titles": [
+        {
+          "source": "Elsevier Inc.",
+          "title": "Topology of Born–Infeld-AdS black hole phase transitions: Bulk and CFT sides"
+        },
+        {
+          "source": "arXiv",
+          "title": "Topology of Born-Infeld-AdS Black Hole Phase Transition"
+        },
+        {
+          "source": "arXiv",
+          "title": "Topology of Born-Infeld-AdS Black Hole Phase Transitions: Bulk and CFT Sides"
+        }
+      ],
+      "authors": [
+        "Ali, Md Sabir",
+        "El Moumni, Hasan",
+        "Khalloufi, Jamal",
+        "Masmar, Karima"
+      ],
+      "authorIds": [
+        "M.S.Ali.2",
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier Inc.",
+          "value": "10.1016/j.aop.2024.169679"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.aop.2024.169679"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "465",
+          "pubinfo_freetext": "Annals Phys. 465 (2024) 169679",
+          "artid": "169679",
+          "material": "publication",
+          "year": 2024,
+          "journal_title": "Annals Phys."
+        }
+      ],
+      "arxiv": [
+        "2306.11212"
+      ],
+      "date": "2023-06-19",
+      "updated": "2025-05-16T14:55:06.312875+00:00"
+    },
+    {
+      "id": "2632031",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "Revisiting the second law and weak cosmic censorship conjecture in high-dimensional charged-AdS black hole: an additional assumption"
+        },
+        {
+          "source": "arXiv",
+          "title": "Revisiting the Second Law and Weak Cosmic Censorship Conjecture in High-Dimensional Charged-AdS Black Hole: an Additional Assumption"
+        }
+      ],
+      "authors": [
+        "Ali, Md Sabir",
+        "El Moumni, Hasan",
+        "Khalloufi, Jamal",
+        "Masmar, Karima"
+      ],
+      "authorIds": [
+        "M.S.Ali.2",
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "Springer",
+          "value": "10.1007/JHEP03(2023)160"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1007/JHEP03(2023)160"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "03",
+          "artid": "160",
+          "year": 2023,
+          "page_start": "160",
+          "journal_title": "JHEP"
+        }
+      ],
+      "arxiv": [
+        "2302.07026"
+      ],
+      "date": "2023-02-14",
+      "updated": "2023-09-04T14:12:42.496367+00:00"
+    },
+    {
+      "id": "1638898",
+      "titles": [
+        {
+          "source": "Elsevier",
+          "title": "Revisiting the phase transition of AdS-Maxwell–power-Yang–Mills black holes via AdS/CFT tools"
+        }
+      ],
+      "authors": [
+        "El Moumni, H."
+      ],
+      "authorIds": [
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "source": "Elsevier",
+          "value": "10.1016/j.physletb.2017.11.037"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "776",
+          "page_end": "132",
+          "year": 2018,
+          "page_start": "124",
+          "journal_title": "Phys.Lett.B"
+        }
+      ],
+      "arxiv": [],
+      "date": null,
+      "updated": "2023-03-07T04:59:55.728043+00:00"
+    },
+    {
+      "id": "2650489",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "On some phase equilibrium features of charged black holes in flat spacetime via Rényi statistics"
+        },
+        {
+          "source": "arXiv",
+          "title": "On some phase equilibrium features of charged black holes in flat spacetime via Rényi statistics"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "Springer",
+          "value": "10.1007/s10714-023-03158-9"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1007/s10714-023-03158-9"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "55",
+          "artid": "109",
+          "year": 2023,
+          "page_start": "109",
+          "journal_issue": "10",
+          "journal_title": "Gen.Rel.Grav."
+        }
+      ],
+      "arxiv": [
+        "2304.04945"
+      ],
+      "date": "2023-04-10",
+      "updated": "2025-07-20T18:10:43.446298+00:00"
+    },
+    {
+      "id": "1507810",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Phase Transition of Charged-AdS Black Holes and Quasinormal Modes : a Time Domain Analysis"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1007/s10509-017-3175-z"
+        },
+        {
+          "value": "10.1007/s10509-017-3175-z"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "362",
+          "artid": "192",
+          "year": 2017,
+          "page_start": "192",
+          "journal_issue": "10",
+          "journal_title": "Astrophys.Space Sci."
+        }
+      ],
+      "arxiv": [
+        "1701.00872"
+      ],
+      "date": "2017-01-03",
+      "updated": "2023-03-07T06:09:44.725542+00:00"
+    },
+    {
+      "id": "1773019",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Phase transition of AdS black hole in massive gravity revisited via new prescription"
+        },
+        {
+          "source": "arXiv",
+          "title": "Phase Transition of AdS Black Hole in Massive Gravity Revisited via New Prescription"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1140/epjp/s13360-020-00266-2"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "135",
+          "pubinfo_freetext": "Eur. Phys. J. Plus (2020) 135: 248",
+          "artid": "248",
+          "material": "publication",
+          "year": 2020,
+          "page_start": "248",
+          "journal_issue": "2",
+          "journal_title": "Eur.Phys.J.Plus"
+        }
+      ],
+      "arxiv": [
+        "1912.11075"
+      ],
+      "date": "2019-10-26",
+      "updated": "2023-03-07T00:14:21.158230+00:00"
+    },
+    {
+      "id": "1795929",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "Thermal Image and Phase Transitions of Charged AdS Black Holes using Shadow Analysis"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chakhchi, L.",
+        "El Moumni, H.",
+        "Khalloufi, J.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "L.Chakhchi.1",
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1142/S0217751X20501705"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0217751X20501705"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "35",
+          "artid": "2050170",
+          "year": 2020,
+          "journal_issue": "27",
+          "journal_title": "Int.J.Mod.Phys.A"
+        }
+      ],
+      "arxiv": [
+        "2005.05893"
+      ],
+      "date": "2020-05-14",
+      "updated": "2026-09-11T11:25:04.276419+00:00"
+    },
+    {
+      "id": "1774153",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "On Einstein-non linear-Maxwell-Yukawa de-Sitter black hole thermodynamics"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Khalloufi, J."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "J.Khalloufi.1"
+      ],
+      "dois": [
+        {
+          "source": "bibmatch",
+          "value": "10.1016/j.nuclphysb.2021.115305"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.nuclphysb.2021.115305"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "963",
+          "artid": "115305",
+          "year": 2021,
+          "journal_title": "Nucl.Phys.B"
+        }
+      ],
+      "arxiv": [
+        "2001.01134"
+      ],
+      "date": "2020-01-04",
+      "updated": "2023-10-03T09:13:13.419929+00:00"
+    },
+    {
+      "id": "1084401",
+      "titles": [
+        {
+          "title": "On Schwarzschild black holes in a D-dimensional noncommutative space"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Schwarzschild black holes in a D-dimensional noncommutative space"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "Moumni, H.El",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [],
+      "publication_info": [],
+      "arxiv": [
+        "1201.2547"
+      ],
+      "date": "2012-01",
+      "updated": "2023-03-06T15:07:28.097010+00:00"
+    },
+    {
+      "id": "2140823",
+      "titles": [
+        {
+          "source": "Elsevier B.V.",
+          "title": "On Rényi universality formula of charged flat black holes from Hawking-Page phase transition"
+        },
+        {
+          "source": "Elsevier",
+          "title": "On Rényi universality formula of charged flat black holes from Hawking-Page phase transition"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Rényi universality formula of charged flat black holes from Hawking-Page phase transition"
+        }
+      ],
+      "authors": [
+        "Barzi, Faical",
+        "El Moumni, Hasan"
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "Elsevier B.V.",
+          "value": "10.1016/j.physletb.2022.137378"
+        },
+        {
+          "source": "Elsevier",
+          "value": "10.1016/j.physletb.2022.137378"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1016/j.physletb.2022.137378"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "833",
+          "artid": "137378",
+          "material": "publication",
+          "year": 2022,
+          "journal_title": "Phys.Lett.B"
+        },
+        {
+          "journal_volume": "833",
+          "artid": "137378",
+          "year": 2022,
+          "journal_title": "Phys.Lett.B"
+        }
+      ],
+      "arxiv": [
+        "2209.08195"
+      ],
+      "date": "2022-09-16",
+      "updated": "2023-10-03T08:48:00.899739+00:00"
+    },
+    {
+      "id": "2122457",
+      "titles": [
+        {
+          "source": "WSP",
+          "title": "Evidence for NO violation of the second law in extended black hole thermodynamics"
+        },
+        {
+          "source": "arXiv",
+          "title": "Evidence for NO violation of the second law in extended black hole thermodynamics"
+        }
+      ],
+      "authors": [
+        "El Moumni, H.",
+        "Khalloufi, J.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "WSP",
+          "value": "10.1142/S0218271822501000"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0218271822501000"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "31",
+          "artid": "2250100",
+          "year": 2022,
+          "journal_issue": "13",
+          "journal_title": "Int.J.Mod.Phys.D"
+        }
+      ],
+      "arxiv": [
+        "2207.11580"
+      ],
+      "date": "2022-07-23",
+      "updated": "2023-10-03T08:10:09.102672+00:00"
+    },
+    {
+      "id": "2920006",
+      "titles": [
+        {
+          "source": "Springer",
+          "title": "Revisiting the Born–Infeld-AdS black hole phase structure through Landau theory and free energy landscape approaches"
+        },
+        {
+          "source": "arXiv",
+          "title": "Born-Infeld-AdS black hole phase structure: Landau theory and free energy landscape approaches"
+        }
+      ],
+      "authors": [
+        "Ali, Md Sabir",
+        "El Moumni, Hasan",
+        "Khalloufi, Jamal",
+        "Masmar, Karima"
+      ],
+      "authorIds": [
+        "M.S.Ali.2",
+        "H.El.Moumni.1",
+        "J.Khalloufi.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "source": "Springer",
+          "value": "10.1038/s41598-025-88842-3"
+        },
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1038/s41598-025-88842-3"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "15",
+          "artid": "15425",
+          "year": 2025,
+          "journal_issue": "1",
+          "journal_title": "Sci.Rep."
+        }
+      ],
+      "arxiv": [
+        "2303.11711"
+      ],
+      "date": "2023-03-21",
+      "updated": "2025-05-15T10:46:25.643708+00:00"
+    },
+    {
+      "id": "1191008",
+      "titles": [
+        {
+          "title": "On Thermodynamics of AdS Black Holes in Arbitrary Dimensions"
+        },
+        {
+          "source": "arXiv",
+          "title": "On Thermodynamics of AdS Black Holes in Arbitrary Dimensions"
+        }
+      ],
+      "authors": [
+        "Belhaj, A.",
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Sedra, M.B."
+      ],
+      "authorIds": [
+        "A.Belhaj.1",
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "M.B.Sedra.1"
+      ],
+      "dois": [
+        {
+          "value": "10.1088/0256-307X/29/10/100401"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "29",
+          "artid": "100401",
+          "year": 2012,
+          "journal_title": "Chin.Phys.Lett."
+        }
+      ],
+      "arxiv": [
+        "1210.4617"
+      ],
+      "date": "2012-10",
+      "updated": "2023-03-07T05:31:50.320938+00:00"
+    },
+    {
+      "id": "1594900",
+      "titles": [
+        {
+          "source": "arXiv",
+          "title": "More Insight into Microscopic Properties of RN-AdS Black Hole Surrounded by Quintessence via an Alternative Extended Phase Space"
+        }
+      ],
+      "authors": [
+        "Chabab, M.",
+        "El Moumni, H.",
+        "Iraoui, S.",
+        "Masmar, K.",
+        "Zhizeh, S."
+      ],
+      "authorIds": [
+        "M.Chabab.1",
+        "H.El.Moumni.1",
+        "S.Iraoui.1",
+        "K.Masmar.1",
+        "S.Zhizeh.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "arXiv",
+          "value": "10.1142/S0219887818501712"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "15",
+          "pubinfo_freetext": "International Journal of Geometric Methods in Modern Physics Vol.\n  15 (2018) 1850171",
+          "artid": "1850171",
+          "material": "publication",
+          "year": 2018,
+          "journal_issue": "10",
+          "journal_title": "Int.J.Geom.Meth.Mod.Phys."
+        }
+      ],
+      "arxiv": [
+        "1704.07720"
+      ],
+      "date": "2017-04-17",
+      "updated": "2025-07-18T18:34:07.640315+00:00"
+    }
+  ]
+}

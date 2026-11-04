@@ -1,0 +1,43 @@
+{
+  "weebly-54": {
+    "year": 2015,
+    "reason": "Publisher-deposited Crossref print and online dates are both 2015; INSPIRE incorrectly reports 2014.",
+    "source": "https://api.crossref.org/works/10.1142/S0219887815500176",
+    "evidence": {
+      "title": [
+        "Critical behaviors of 3D black holes with a scalar hair"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            29
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            2
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            29
+          ]
+        ]
+      },
+      "volume": "12",
+      "issue": "02",
+      "page": "1550017",
+      "article-number": null,
+      "relation": {}
+    }
+  }
+}

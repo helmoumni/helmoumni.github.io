@@ -18,3 +18,8 @@ Next: stage 5A, import and deduplicate the archived bibliography; stage 5B, upda
 ## Stage 5A — Bibliography import
 57 archived notices plus six selected records, with one arXiv duplicate merged: 62 distinct entries. All source entries are accounted for in the import report. Publication page has year navigation, bilingual labels, direct identifiers when known and explicit INSPIRE title-search links otherwise. The homepage’s six selected publications and BibTeX file are unchanged.
 Next: stage 5B — verify publication statuses, enrich metadata and add filters.
+
+## Stage 5B — Metadata and filters
+69 references: 62 matched uniquely in INSPIRE, seven additional records. 63 DOI links; 64 journal records, three preprints, one forthcoming 2027 issue and one unresolved version. The M-theory publisher candidate 2765745 is held out to avoid likely double counting with arXiv:2301.08321. Year 2015 for DOI 10.1142/S0219887815500176 is corrected using publisher-deposited Crossref dates. Added search, year/theme/status filters, reset, bilingual result counts, full BibTeX export and erratum link.
+Regenerate with python3 scripts/update-bibliography.py and python3 scripts/build-pages.py. The original import script alone restores stage 5A metadata and should not be used as the final build step.
+Validation: static links, translation coverage, unique identifiers, all 69 rendered cards/BibTeX entries, accent-insensitive search and combined filter logic pass. Browser launch failed in this environment; visual desktop/mobile verification remains pending.

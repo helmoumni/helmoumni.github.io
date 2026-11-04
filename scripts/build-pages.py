@@ -41,6 +41,9 @@ for path,(en,fr,body) in pages.items():
             data.pop('email', None)
             return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + '</script>'
         page = re.sub(r'<script type="application/ld\+json">(.*?)</script>', minimal_schema, page)
+    if path == 'publications.html':
+        page = page.replace('</head>', '<link rel="stylesheet" href="assets/bibliography.css"></head>')
+        page = page.replace('</body>', '<script src="assets/bibliography-filters.js"></script></body>')
     (root/path).parent.mkdir(exist_ok=True,parents=True)
     (root/path).write_text(page)
 urls=['https://helmoumni.github.io/'+('' if p=='index.html' else p) for p in pages]+['https://helmoumni.github.io/teaching/pendule.html']

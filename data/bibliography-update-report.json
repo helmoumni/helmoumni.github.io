@@ -1,0 +1,685 @@
+{
+  "checked": "2026-11-04",
+  "count": 69,
+  "added": 7,
+  "doiCount": 63,
+  "statuses": {
+    "published": 64,
+    "preprint": 3,
+    "unconfirmed": 1,
+    "forthcoming": 1
+  },
+  "changes": [
+    {
+      "id": "barzi2026unruh",
+      "inspireId": "2966337",
+      "oldYear": 2026,
+      "year": 2026,
+      "oldTitle": "Modified Unruh thermodynamics in emergent gravity: Finite heat capacity and Rényi entropy",
+      "title": "Modified Unruh thermodynamics in emergent gravity: Finite heat capacity and Rényi entropy",
+      "status": "published"
+    },
+    {
+      "id": "ahal2026bayesian",
+      "inspireId": "3111466",
+      "oldYear": 2026,
+      "year": 2026,
+      "oldTitle": "QPO-based Bayesian constraints on charged particle dynamics around magnetized Schwarzschild black holes",
+      "title": "QPO-based Bayesian constraints on charged particle dynamics around magnetized Schwarzschild black holes",
+      "status": "published"
+    },
+    {
+      "id": "barzi2026microstructure",
+      "inspireId": "2959046",
+      "oldYear": 2026,
+      "year": 2026,
+      "oldTitle": "On Rényi microstructural aspects of asymptotically flat charged black holes: A novel duality",
+      "title": "On Rényi microstructural aspects of asymptotically flat charged black holes: A novel duality",
+      "status": "published"
+    },
+    {
+      "id": "ahal2025halos",
+      "inspireId": "2946526",
+      "oldYear": 2025,
+      "year": 2025,
+      "oldTitle": "Modeling HF-QPOs in microquasars and AGNs: charged particles around black holes with CDM halos",
+      "title": "Modeling HF-QPOs in microquasars and AGNs: charged particles around black holes with CDM halos",
+      "status": "published"
+    },
+    {
+      "id": "chakhchi2025shadows",
+      "inspireId": "2824810",
+      "oldYear": 2025,
+      "year": 2025,
+      "oldTitle": "A supersymmetric suspicion from accelerating black hole shadows",
+      "title": "A supersymmetric suspicion from accelerating black hole shadows",
+      "status": "published"
+    },
+    {
+      "id": "ali2024topology",
+      "inspireId": "2785036",
+      "oldYear": 2024,
+      "year": 2024,
+      "oldTitle": "Topology of Born–Infeld-AdS black hole phase transitions: Bulk and CFT sides",
+      "title": "Topology of Born–Infeld-AdS black hole phase transitions: Bulk and CFT sides",
+      "status": "published"
+    },
+    {
+      "id": "weebly-01",
+      "inspireId": "2702591",
+      "oldYear": 2023,
+      "year": 2024,
+      "oldTitle": "Rényi Topology of Charged-flat Black Hole: Hawking-Page and Van-der-Waals Phase Transitions",
+      "title": "Rényi topology of charged-flat black hole: Hawking-Page and Van-der-Waals phase transitions",
+      "status": "published"
+    },
+    {
+      "id": "weebly-02",
+      "inspireId": "2697110",
+      "oldYear": 2023,
+      "year": 2023,
+      "oldTitle": "Thermodynamics and phase transition structure of charged black holes in f(R) gravity background from Rényi statistics perception",
+      "title": "Thermodynamics and phase transition structure of charged black holes in f(R) gravity background from Rényi statistics perception",
+      "status": "published"
+    },
+    {
+      "id": "weebly-04",
+      "inspireId": "2650489",
+      "oldYear": 2023,
+      "year": 2023,
+      "oldTitle": "On some phase equilibrium features of charged black holes in flat spacetime via Rényi statistics",
+      "title": "On some phase equilibrium features of charged black holes in flat spacetime via Rényi statistics",
+      "status": "published"
+    },
+    {
+      "id": "weebly-05",
+      "inspireId": "2920006",
+      "oldYear": 2023,
+      "year": 2025,
+      "oldTitle": "Born-Infeld-AdS black hole phase structure: Landau theory and free energy landscape approaches",
+      "title": "Revisiting the Born–Infeld-AdS black hole phase structure through Landau theory and free energy landscape approaches",
+      "status": "published"
+    },
+    {
+      "id": "weebly-06",
+      "inspireId": "2632031",
+      "oldYear": 2023,
+      "year": 2023,
+      "oldTitle": "Revisiting the second law and weak cosmic censorship conjecture in high-dimensional charged-AdS black hole: an additional assumption",
+      "title": "Revisiting the second law and weak cosmic censorship conjecture in high-dimensional charged-AdS black hole: an additional assumption",
+      "status": "published"
+    },
+    {
+      "id": "weebly-07",
+      "inspireId": "2625186",
+      "oldYear": 2023,
+      "year": 2023,
+      "oldTitle": "Light Behaviors around Black Holes in M-theory",
+      "title": "Light Behaviors around Black Holes in M-theory",
+      "status": "unconfirmed"
+    },
+    {
+      "id": "weebly-08",
+      "inspireId": "2140823",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "On Rényi universality formula of charged flat black holes from Hawking-Page phase transition",
+      "title": "On Rényi universality formula of charged flat black holes from Hawking-Page phase transition",
+      "status": "published"
+    },
+    {
+      "id": "weebly-09",
+      "inspireId": "2122457",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Evidence for NO violation of the second law in extended black hole thermodynamics",
+      "title": "Evidence for NO violation of the second law in extended black hole thermodynamics",
+      "status": "published"
+    },
+    {
+      "id": "weebly-10",
+      "inspireId": "2070487",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Light deflection by rotating regular black holes with a cosmological constant",
+      "title": "Light deflection by rotating regular black holes with a cosmological constant",
+      "status": "published"
+    },
+    {
+      "id": "weebly-11",
+      "inspireId": "2071512",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Insight into the microscopic structure of a quintessential black hole from the quantization concept",
+      "title": "Insight into the microscopic structure of a quintessential black hole from the quantization concept",
+      "status": "published"
+    },
+    {
+      "id": "weebly-12",
+      "inspireId": "2057774",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: II - Grand canonical ensemble",
+      "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: II - Grand canonical ensemble",
+      "status": "published"
+    },
+    {
+      "id": "weebly-13",
+      "inspireId": "2056008",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Light deflection angle by superentropic black holes",
+      "title": "Light deflection angle by superentropic black holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-14",
+      "inspireId": "2054516",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Shadows and optical appearance of a power-Yang-Mills black hole surrounded by different accretion disk profiles",
+      "title": "Shadows and optical appearance of a power-Yang-Mills black hole surrounded by different accretion disk profiles",
+      "status": "published"
+    },
+    {
+      "id": "weebly-15",
+      "inspireId": "2068101",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Critical phenomena of charged dilatonic black holes through Rényi statistics approach",
+      "title": "Critical phenomena of charged dilatonic black holes through Rényi statistics approach",
+      "status": "published"
+    },
+    {
+      "id": "weebly-16",
+      "inspireId": "2037029",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Optical shadows of rotating Bardeen-AdS black holes",
+      "title": "Optical shadows of rotating Bardeen-AdS black holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-17",
+      "inspireId": "2032142",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Thermodynamic and optical behaviors of quintessential Hayward-AdS black holes",
+      "title": "Thermodynamic and optical behaviors of quintessential Hayward-AdS black holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-22",
+      "inspireId": "1811933",
+      "oldYear": 2022,
+      "year": 2022,
+      "oldTitle": "Weak deflection angle of light in two classes of black holes in nonlinear electrodynamics via Gauss-Bonnet theorem",
+      "title": "Weak deflection angle of light in two classes of black holes in nonlinear electrodynamics via Gauss–Bonnet theorem",
+      "status": "published"
+    },
+    {
+      "id": "weebly-18",
+      "inspireId": "1961241",
+      "oldYear": 2021,
+      "year": 2021,
+      "oldTitle": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: I-Canonical ensemble",
+      "title": "Nonlinear-Maxwell-Yukawa de-Sitter black hole thermodynamics in a cavity: I−Canonical ensemble",
+      "status": "published"
+    },
+    {
+      "id": "weebly-19",
+      "inspireId": "1962897",
+      "oldYear": 2021,
+      "year": 2021,
+      "oldTitle": "Regular AdS black holes holographic heat engines in a benchmarking scheme",
+      "title": "Regular AdS black holes holographic heat engines in a benchmarking scheme",
+      "status": "published"
+    },
+    {
+      "id": "weebly-20",
+      "inspireId": "1814098",
+      "oldYear": 2021,
+      "year": 2021,
+      "oldTitle": "Shadows of 5D black holes from string theory",
+      "title": "Shadows of 5D black holes from string theory",
+      "status": "published"
+    },
+    {
+      "id": "weebly-21",
+      "inspireId": "1813003",
+      "oldYear": 2021,
+      "year": 2021,
+      "oldTitle": "Black hole shadows in M-theory scenarios",
+      "title": "Black hole shadows in M-theory scenarios",
+      "status": "published"
+    },
+    {
+      "id": "weebly-24",
+      "inspireId": "1807751",
+      "oldYear": 2021,
+      "year": 2021,
+      "oldTitle": "Cosmological constant effect on charged and rotating black hole shadows",
+      "title": "Cosmological constant effect on charged and rotating black hole shadows",
+      "status": "published"
+    },
+    {
+      "id": "weebly-28",
+      "inspireId": "1774153",
+      "oldYear": 2021,
+      "year": 2021,
+      "oldTitle": "On Einstein-non linear-Maxwell-Yukawa de-Sitter black hole thermodynamics",
+      "title": "On Einstein-non linear-Maxwell-Yukawa de-Sitter black hole thermodynamics",
+      "status": "published"
+    },
+    {
+      "id": "weebly-23",
+      "inspireId": "1809715",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "On phase transition behaviors of Kerr-Sen black hole",
+      "title": "On phase transition behaviors of Kerr–Sen black hole",
+      "status": "published"
+    },
+    {
+      "id": "weebly-25",
+      "inspireId": "1809900",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "f(R) Gravity Effects on Charged Accelerating AdS Black Holes using Holographic Tools",
+      "title": "f(R) Gravity Effects on Charged Accelerating AdS Black Holes using Holographic Tools",
+      "status": "published"
+    },
+    {
+      "id": "weebly-26",
+      "inspireId": "1798712",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "Deflection angle and shadow behaviors of quintessential black holes in arbitrary dimensions",
+      "title": "Deflection angle and shadow behaviors of quintessential black holes in arbitrary dimensions",
+      "status": "published"
+    },
+    {
+      "id": "weebly-27",
+      "inspireId": "1795929",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "Thermal Image and Phase Transitions of Charged AdS Black Holes using Shadow Analysis",
+      "title": "Thermal Image and Phase Transitions of Charged AdS Black Holes using Shadow Analysis",
+      "status": "published"
+    },
+    {
+      "id": "weebly-29",
+      "inspireId": "1767331",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "Testing the complexity conjecture in regular black holes geometry",
+      "title": "Testing the complexity conjecture in regular black holes geometry",
+      "status": "published"
+    },
+    {
+      "id": "weebly-30",
+      "inspireId": "1773019",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "Phase Transition of AdS Black hole in Massive Gravity Revisited via New Prescription",
+      "title": "Phase transition of AdS black hole in massive gravity revisited via new prescription",
+      "status": "published"
+    },
+    {
+      "id": "weebly-31",
+      "inspireId": "1718354",
+      "oldYear": 2020,
+      "year": 2020,
+      "oldTitle": "Probing correlation between photon orbits and phase structure of charged AdS black hole in massive gravity background",
+      "title": "Probing correlation between photon orbits and phase structure of charged AdS black hole in massive gravity background",
+      "status": "published"
+    },
+    {
+      "id": "weebly-32",
+      "inspireId": "1752677",
+      "oldYear": 2019,
+      "year": 2019,
+      "oldTitle": "Dark energy effects on charged and rotating black holes",
+      "title": "Dark energy effects on charged and rotating black holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-33",
+      "inspireId": "1741647",
+      "oldYear": 2019,
+      "year": 2019,
+      "oldTitle": "Geometric engineering of qubits from string theory",
+      "title": "Geometric engineering of qubits from string theory",
+      "status": "published"
+    },
+    {
+      "id": "weebly-34",
+      "inspireId": "1728696",
+      "oldYear": 2019,
+      "year": 2019,
+      "oldTitle": "Phase transitions and geothermodynamics of black holes in dRGT massive gravity",
+      "title": "Phase transitions and geothermodynamics of black holes in dRGT massive gravity",
+      "status": "published"
+    },
+    {
+      "id": "weebly-35",
+      "inspireId": "1704825",
+      "oldYear": 2019,
+      "year": 2019,
+      "oldTitle": "Entanglement entropy and phase portrait of f(R)-AdS black holes in the grand canonical ensemble",
+      "title": "Entanglement entropy and phase portrait of f(R)-AdS black holes in the grand canonical ensemble",
+      "status": "published"
+    },
+    {
+      "id": "weebly-36",
+      "inspireId": "1695651",
+      "oldYear": 2019,
+      "year": 2019,
+      "oldTitle": "Anti-de-Sitter-Maxwell-Yang-Mills black holes thermodynamics from nonlocal observables point of view",
+      "title": "Anti-de-Sitter-Maxwell-Yang-Mills black holes thermodynamics from nonlocal observables point of view",
+      "status": "published"
+    },
+    {
+      "id": "weebly-37",
+      "inspireId": "1670197",
+      "oldYear": 2018,
+      "year": 2018,
+      "oldTitle": "Joule-Thomson Expansion of RN-AdS Black Holes in 𝑓 ( 𝑅 ) gravity",
+      "title": "Joule-Thomson Expansion of RN-AdS Black Holes in f(R) gravity",
+      "status": "published"
+    },
+    {
+      "id": "weebly-38",
+      "inspireId": "1667399",
+      "oldYear": 2018,
+      "year": 2018,
+      "oldTitle": "Chaos in charged AdS black hole extended phase space",
+      "title": "Chaos in charged AdS black hole extended phase space",
+      "status": "published"
+    },
+    {
+      "id": "weebly-39",
+      "inspireId": "1638898",
+      "oldYear": 2018,
+      "year": 2018,
+      "oldTitle": "Revisiting the phase transition of AdS-Maxwell–power-Yang–Mills black holes via AdS/CFT tools",
+      "title": "Revisiting the phase transition of AdS-Maxwell–power-Yang–Mills black holes via AdS/CFT tools",
+      "status": "published"
+    },
+    {
+      "id": "weebly-40",
+      "inspireId": "1594900",
+      "oldYear": 2018,
+      "year": 2018,
+      "oldTitle": "More Insight into Microscopic Properties of RN-AdS Black Hole Surrounded by Quintessence via an Alternative Extended Phase Space",
+      "title": "More Insight into Microscopic Properties of RN-AdS Black Hole Surrounded by Quintessence via an Alternative Extended Phase Space",
+      "status": "published"
+    },
+    {
+      "id": "weebly-41",
+      "inspireId": "1507810",
+      "oldYear": 2017,
+      "year": 2017,
+      "oldTitle": "Phase Transition of Charged-AdS Black Holes and Quasinormal Modes : a Time Domain Analysis",
+      "title": "Phase Transition of Charged-AdS Black Holes and Quasinormal Modes : a Time Domain Analysis",
+      "status": "published"
+    },
+    {
+      "id": "weebly-42",
+      "inspireId": "1507828",
+      "oldYear": 2017,
+      "year": 2017,
+      "oldTitle": "Phase Transition of AdS Black Holes with Non Linear Source in the Holographic Framework",
+      "title": "Phase Transition of AdS Black Holes with Non Linear Source in the Holographic Framework",
+      "status": "published"
+    },
+    {
+      "id": "weebly-43",
+      "inspireId": "1472846",
+      "oldYear": 2016,
+      "year": 2016,
+      "oldTitle": "Behavior of quasinormal modes and high dimension RN–AdS black hole phase transition",
+      "title": "Behavior of quasinormal modes and high dimension RN–AdS black hole phase transition",
+      "status": "published"
+    },
+    {
+      "id": "weebly-44",
+      "inspireId": "1411305",
+      "oldYear": 2016,
+      "year": 2016,
+      "oldTitle": "On thermodynamics of charged AdS black holes in extended phases space via M2-branes background",
+      "title": "On thermodynamics of charged AdS black holes in extended phases space via M2-branes background",
+      "status": "published"
+    },
+    {
+      "id": "weebly-45",
+      "inspireId": "1392476",
+      "oldYear": 2016,
+      "year": 2016,
+      "oldTitle": "On Thermodynamics of AdS Black Holes in M-Theory",
+      "title": "On Thermodynamics of AdS Black Holes in M-Theory",
+      "status": "published"
+    },
+    {
+      "id": "weebly-46",
+      "inspireId": "1388752",
+      "oldYear": 2015,
+      "year": 2015,
+      "oldTitle": "On Hawking Radiation of 3D Rotating Hairy Black Holes",
+      "title": "On Hawking Radiation of 3D Rotating Hairy Black Holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-47",
+      "inspireId": "1355569",
+      "oldYear": 2015,
+      "year": 2015,
+      "oldTitle": "On Heat Properties of AdS Black Holes in Higher Dimensions",
+      "title": "On Heat Properties of AdS Black Holes in Higher Dimensions",
+      "status": "published"
+    },
+    {
+      "id": "weebly-48",
+      "inspireId": "1335748",
+      "oldYear": 2015,
+      "year": 2015,
+      "oldTitle": "Statistical Physics of 3D Hairy Black Holes",
+      "title": "Statistical Physics of 3D Hairy Black Holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-49",
+      "inspireId": "1333258",
+      "oldYear": 2015,
+      "year": 2015,
+      "oldTitle": "Maxwell's equal-area law for Gauss-Bonnet-Anti-de Sitter black holes",
+      "title": "Maxwell's equal-area law for Gauss-Bonnet-Anti-de Sitter black holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-50",
+      "inspireId": "1296067",
+      "oldYear": 2015,
+      "year": 2015,
+      "oldTitle": "Ehrenfest scheme of higher dimensional AdS black holes in the third-order Lovelock–Born–Infeld gravity",
+      "title": "Ehrenfest scheme of higher dimensional AdS black holes in the third-order Lovelock–Born–Infeld gravity",
+      "status": "published"
+    },
+    {
+      "id": "weebly-51",
+      "inspireId": "1264115",
+      "oldYear": 2014,
+      "year": 2014,
+      "oldTitle": "On Thermodynamics of 2d Black Holes in Brane Inflationary Potentials",
+      "title": "On Thermodynamics of 2d Black Holes in Brane Inflationary Potentials",
+      "status": "published"
+    },
+    {
+      "id": "weebly-54",
+      "inspireId": "1238128",
+      "oldYear": 2014,
+      "year": 2015,
+      "oldTitle": "Critical Behaviors of 3D Black Holes with a Scalar Hair",
+      "title": "Critical Behaviors of 3D Black Holes with a Scalar Hair",
+      "status": "published"
+    },
+    {
+      "id": "weebly-52",
+      "inspireId": "1253939",
+      "oldYear": 2013,
+      "year": 2013,
+      "oldTitle": "On non-commutative black holes and their thermodynamics in arbitrary dimension",
+      "title": "On non-commutative black holes and their thermodynamics in arbitrary dimension",
+      "status": "published"
+    },
+    {
+      "id": "weebly-53",
+      "inspireId": "1245064",
+      "oldYear": 2013,
+      "year": 2013,
+      "oldTitle": "The Thermodynamical Behaviors of Kerr—Newman AdS Black Holes",
+      "title": "The Thermodynamical Behaviors of Kerr—Newman AdS Black Holes",
+      "status": "published"
+    },
+    {
+      "id": "weebly-55",
+      "inspireId": "1191008",
+      "oldYear": 2012,
+      "year": 2012,
+      "oldTitle": "On Thermodynamics of AdS Black Holes in Arbitrary Dimensions",
+      "title": "On Thermodynamics of AdS Black Holes in Arbitrary Dimensions",
+      "status": "published"
+    },
+    {
+      "id": "weebly-56",
+      "inspireId": "1084401",
+      "oldYear": 2012,
+      "year": 2012,
+      "oldTitle": "On Schwarzschild black holes in a D-dimensional noncommutative space",
+      "title": "On Schwarzschild black holes in a D-dimensional noncommutative space",
+      "status": "preprint"
+    },
+    {
+      "id": "weebly-57",
+      "inspireId": "927532",
+      "oldYear": 2011,
+      "year": 2011,
+      "oldTitle": "On Hawking radiation of 2d Liouville black hole",
+      "title": "On Hawking radiation of 2d Liouville black hole",
+      "status": "preprint"
+    },
+    {
+      "id": "inspire-2858816",
+      "inspireId": "2858816",
+      "oldYear": null,
+      "year": 2025,
+      "oldTitle": null,
+      "title": "On M87⁎ and SgrA⁎ observational constraints of Dunkl black holes",
+      "status": "published"
+    },
+    {
+      "id": "inspire-2817286",
+      "inspireId": "2817286",
+      "oldYear": null,
+      "year": 2024,
+      "oldTitle": null,
+      "title": "Riemann Surfaces and Winding Numbers of Rényi Phase Structure of Charged-Flat Black Holes",
+      "status": "published"
+    },
+    {
+      "id": "inspire-2769174",
+      "inspireId": "2769174",
+      "oldYear": null,
+      "year": 2024,
+      "oldTitle": null,
+      "title": "Signatures of the accelerating black holes with a cosmological constant from the textrm{Sgr~A}^star and textrm{M87}^star shadow prospects",
+      "status": "published"
+    },
+    {
+      "id": "inspire-3160241",
+      "inspireId": "3160241",
+      "oldYear": null,
+      "year": 2026,
+      "oldTitle": null,
+      "title": "Critical Inter-Horizon Thermal Dynamics on the Lukewarm Reissner-Nordström-de Sitter Manifold",
+      "status": "preprint"
+    },
+    {
+      "id": "inspire-3181822",
+      "inspireId": "3181822",
+      "oldYear": null,
+      "year": 2027,
+      "oldTitle": null,
+      "title": "Accretion and neutrino-motivated thermal diagnostics of thermodynamically reconstructed black holes from three-parameter generalized entropy",
+      "status": "forthcoming"
+    },
+    {
+      "id": "inspire-2780037",
+      "inspireId": "2780037",
+      "oldYear": null,
+      "year": 2024,
+      "oldTitle": null,
+      "title": "Thermal chaos of charged-flat black hole via Rényi formalism",
+      "status": "published"
+    },
+    {
+      "id": "inspire-2840321",
+      "inspireId": "2840321",
+      "oldYear": null,
+      "year": 2025,
+      "oldTitle": null,
+      "title": "Nonextensive black hole thermodynamics from generalized Euclidean path integral and Wick’s rotation",
+      "status": "published"
+    }
+  ],
+  "unresolved": [
+    {
+      "record": "weebly-07",
+      "candidateInspireId": "2765745",
+      "reason": "Same six authors and near-identical topic/abstract, but no explicit arXiv-to-publication link. Candidate not added separately to avoid likely double counting."
+    }
+  ],
+  "yearOverrides": {
+    "weebly-54": {
+      "year": 2015,
+      "reason": "Publisher-deposited Crossref print and online dates are both 2015; INSPIRE incorrectly reports 2014.",
+      "source": "https://api.crossref.org/works/10.1142/S0219887815500176",
+      "evidence": {
+        "title": [
+          "Critical behaviors of 3D black holes with a scalar hair"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              29
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              2
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              29
+            ]
+          ]
+        },
+        "volume": "12",
+        "issue": "02",
+        "page": "1550017",
+        "article-number": null,
+        "relation": {}
+      }
+    }
+  }
+}
