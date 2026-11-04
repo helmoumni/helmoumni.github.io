@@ -32,3 +32,6 @@ Three course pages now expose 14 MEGA documents and six quantum mechanics videos
 
 ## Stage 8 — Tools and simulations
 Expanded the tools page with the existing pendulum laboratory, its preparation/measurement/analysis workflow, and three archived external resources. No simulation code changed. The Nantes two-body link returned HTTP 404 on 2026-11-04 and is explicitly unavailable; Zenodo could not be retrieved, and YouTube availability is unchecked. Next lot: academic activities.
+
+## Stage 9 — Academic activities
+The former placeholder is replaced by a bilingual activities page covering dated research leadership, editorial and peer-review service, doctoral supervision, archived collaborators, the CERN visit, and three events referenced by the archived site. The 2024 “Black holes inside and out” poster is restored as a downloadable PDF. The ASP and ICS3EIS entries explicitly state that the archive does not establish personal participation. Historical appointments are labelled as archival rather than current.

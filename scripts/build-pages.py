@@ -4,7 +4,7 @@ root=Path(__file__).resolve().parents[1]
 shell=(root/'templates/page.html').read_text()
 pages=json.loads((root/'templates/pages.json').read_text())
 for path,(en,fr,body) in pages.items():
-    if path in ('research.html', 'publications.html', 'teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html', 'teaching/outils-simulations.html'):
+    if path in ('research.html', 'publications.html', 'activities.html', 'teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html', 'teaching/outils-simulations.html'):
         body = (root/'templates'/path).read_text()
     prefix='../' if path.startswith('teaching/') else ''
     page=shell.replace('{{CONTENT}}',body)
@@ -52,6 +52,8 @@ for path,(en,fr,body) in pages.items():
         page = page.replace('</head>', '<link rel="stylesheet" href="../assets/teaching-resources.css"></head>')
     if path == 'research.html':
         page = page.replace('</head>', '<link rel="stylesheet" href="assets/arabic-writing.css"></head>')
+    if path == 'activities.html':
+        page = page.replace('</head>', '<link rel="stylesheet" href="assets/activities.css"></head>')
     if path == 'publications.html':
         page = page.replace('</head>', '<link rel="stylesheet" href="assets/bibliography.css"></head>')
         page = page.replace('</body>', '<script src="assets/bibliography-filters.js"></script></body>')

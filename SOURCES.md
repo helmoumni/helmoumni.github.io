@@ -41,3 +41,6 @@ Source: Sauvegarde_Weebly_Hasan_2026-11-02/site/teaching.html and liens_cours_ME
 
 ## Stage 8 tools
 Source: archived site/teaching.html (Zenodo 17444122, Nantes 121bp2co, Tenet video 4xj0KRqzo-0 with t=126s); current teaching/pendule.html for actual laboratory features. Original external URLs preserved. No external simulation was downloaded or represented as tested.
+
+## Stage 9 activities
+Sources: archived site/bio.html, site/index.html and site/research-publications.html; archived asset poster_for_bhio_2024-elmoumni-1.pdf. Current rank and dated 2022–2026 team role follow the site migration profile supplied by the author. Event links are retained without inferring attendance when the archive does not state it. The poster title, authors, subject and 2024 source article were checked against the PDF text.
