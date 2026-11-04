@@ -26,3 +26,6 @@ Validation: static links, translation coverage, unique identifiers, all 69 rende
 
 ## Stage 6 — Teaching portal and statistical physics
 Portal refreshed with a featured statistics library and course-level navigation. Statistical physics now lists 48 unique MEGA documents, five numbered course videos and two complementary resources (55 working URL references, external availability not checked). Earlier course versions (17) and 2025–2026 notes (13) remain distinct; six TD links and 12 exam/resit correction links retain their source associations. Video 3 is explicitly missing its URL. The two labels “Annales” and “Polycopié de TD” share one source link, displayed once. Homepage statistics link now points to the migrated page. Next lot: quantum mechanics, relativity and nuclear practicals.
+
+## Stage 7 — Quantum mechanics, relativity and nuclear practicals
+Three course pages now expose 14 MEGA documents and six quantum mechanics videos. Quantum corrections preserve series/problem associations and the distinct 2017–2018 / 2019–2020 periods. Series 4 problem 2 has no capture/video URLs in the archive and is explicitly marked. Relativity retains the Master S3 2021–2024 context; nuclear practicals retain SMP-S5 2021–2022 and manipulation 3. Portal cards and homepage relativity link updated. Next lot: tools and simulations.

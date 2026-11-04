@@ -35,3 +35,6 @@ Scopus profile URL supplied directly by the author: https://www.scopus.com/authi
 
 ## Stage 6 — 4 November 2026
 Source: Weebly teaching.html and liens_cours_MEGA.json from the 2 November archive. data/statistics-resources.json retains original MEGA labels, zero-based source indices and exact URLs including fragment keys. Source indices 9–25: earlier courses; 26–38: 2025–2026; 39–44: TD; 45–56: alternating exam and resit corrections for 2020–2021 through 2025–2026. Video numbers are taken from their parent list items, not a newly inferred sequence: 1, 2, 4, 5, 6 have URLs; 3 has an anchor without href. Tenet and Zenodo links are complementary resources; no YouTube media is embedded, no unavailable URL is invented. Linked documents are not locally downloaded or independently verified. Content remains in French as planned; shared site navigation remains bilingual. The standalone pendulum, other subject pages and Arabic writing remain unchanged.
+
+## Stage 7 teaching resources
+Source: Sauvegarde_Weebly_Hasan_2026-11-02/site/teaching.html and liens_cours_MEGA.json, entries 0–8 and 57–61. Exact MEGA URLs (including decryption fragments) and six YouTube URLs preserved. Index: data/teaching-stage7-resources.json. External document/video availability not checked; documents are linked, not downloaded. Archive labels without URLs remain unavailable.
