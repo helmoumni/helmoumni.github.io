@@ -8,6 +8,10 @@ for path,(en,fr,body) in pages.items():
         body = (root/'templates'/path).read_text()
     prefix='../' if path.startswith('teaching/') else ''
     page=shell.replace('{{CONTENT}}',body)
+    if path in ('index.html', 'about.html'):
+        profile_end = 'Web of Science · T-6745-2019 ↗</a>'
+        assert profile_end in page
+        page = page.replace(profile_end, profile_end + '<a class="text-link" href="https://www.scopus.com/authid/detail.uri?authorId=55866171000" target="_blank" rel="noopener">Scopus ↗</a>')
     # Assets always live in the root assets folder.
     page=re.sub(r'(href|src)="assets/',lambda m:m[1]+'="'+prefix+'assets/',page)
     # Shell navigation and footer links are relative to root.
@@ -41,6 +45,8 @@ for path,(en,fr,body) in pages.items():
             data.pop('email', None)
             return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + '</script>'
         page = re.sub(r'<script type="application/ld\+json">(.*?)</script>', minimal_schema, page)
+    if path == 'research.html':
+        page = page.replace('</head>', '<link rel="stylesheet" href="assets/arabic-writing.css"></head>')
     if path == 'publications.html':
         page = page.replace('</head>', '<link rel="stylesheet" href="assets/bibliography.css"></head>')
         page = page.replace('</body>', '<script src="assets/bibliography-filters.js"></script></body>')

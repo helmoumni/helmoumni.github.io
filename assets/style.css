@@ -20,3 +20,5 @@
 
 /* Biography and academic profile links */
 .academic-profiles{display:flex;flex-wrap:wrap;gap:20px 28px}.record-row{display:grid;grid-template-columns:110px minmax(0,1fr);gap:22px;padding:20px 0;border-bottom:1px solid var(--line)}.record-row p{margin:0}.record-row .career-year{padding-top:3px}.inner-page .section-body>p{line-height:1.9}.inner-page .section-body .button{margin-top:18px}@media(max-width:560px){.record-row{grid-template-columns:1fr;gap:8px}.academic-profiles{gap:16px 22px}}
+
+.site-signature{text-align:center;font:13px/1.6 system-ui,sans-serif;letter-spacing:.025em;padding:22px 20px;margin:0;color:var(--muted,#56615b);border-top:1px solid var(--line,#ddd)}
