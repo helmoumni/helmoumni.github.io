@@ -38,3 +38,6 @@ The former placeholder is replaced by a bilingual activities page covering dated
 
 ## Stage 10 — Final audit
 Added unique bilingual descriptions for all generated pages, Open Graph/Twitter metadata, canonical and social metadata for the standalone pendulum laboratory, richer scholarly profile links in Person structured data, and noindex metadata for the 404 page. Corrected the About and Contact heading hierarchy so every public page has exactly one H1. The site checker now enforces heading, metadata, canonical, sitemap, image-alt, external-link safety and legacy-link rules in addition to its earlier checks.
+
+## Research podcast
+Restored the archived Spotify show as a dedicated bilingual “Giving physics a voice” section on the Research page. The official Spotify embed is lazy-loaded, titled for assistive technology and paired with a direct show link. The surrounding design follows the site’s graphite, green and orange visual identity.

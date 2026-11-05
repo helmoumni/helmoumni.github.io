@@ -7,7 +7,7 @@ pages=json.loads((root/'templates/pages.json').read_text())
 descriptions={
     'index.html':('Hasan El Moumni, Full Professor of theoretical physics at Ibn Zohr University. Research on black holes, gravitation, generalized entropy and strong-gravity phenomenology.','Hasan El Moumni, professeur de physique théorique à l’Université Ibn Zohr. Recherches sur les trous noirs, la gravitation, les entropies généralisées et la gravitation forte.'),
     'about.html':('Biography, academic career, education, research visit and scholarly profiles of theoretical physicist Hasan El Moumni.','Biographie, parcours universitaire, formation, séjour scientifique et profils académiques du physicien théoricien Hasan El Moumni.'),
-    'research.html':('Research directions of Hasan El Moumni: black-hole thermodynamics, generalized entropy, shadows, lensing, particle dynamics and quasi-periodic oscillations.','Axes de recherche de Hasan El Moumni : thermodynamique des trous noirs, entropies généralisées, ombres, lentilles, dynamique des particules et QPO.'),
+    'research.html':('Research and science communication by Hasan El Moumni: black-hole thermodynamics, generalized entropy, shadows, particle dynamics, Arabic essays and a physics podcast.','Recherche et communication scientifique de Hasan El Moumni : thermodynamique des trous noirs, entropies généralisées, ombres, dynamique, articles en arabe et podcast.'),
     'publications.html':('Bibliography of Hasan El Moumni in black-hole physics, gravitation, high-energy physics, generalized thermodynamics and astrophysical phenomenology.','Bibliographie de Hasan El Moumni en physique des trous noirs, gravitation, hautes énergies, thermodynamique généralisée et phénoménologie astrophysique.'),
     'contact.html':('University contact details for Hasan El Moumni, Full Professor of theoretical physics at Ibn Zohr University in Agadir, Morocco.','Coordonnées universitaires de Hasan El Moumni, professeur de physique théorique à l’Université Ibn Zohr, Agadir, Maroc.'),
     'activities.html':('Academic activities of Hasan El Moumni: research leadership, doctoral supervision, editorial service, peer review, collaborations, visits and scientific events.','Activités académiques de Hasan El Moumni : responsabilité scientifique, encadrement doctoral, édition, évaluation, collaborations, séjours et événements.'),
@@ -25,6 +25,10 @@ for path,(en,fr,body) in pages.items():
         body = body.replace('<h2 id="aboutTitle"', '<h1 id="aboutTitle"', 1).replace('</h2>', '</h1>', 1)
     if path == 'contact.html':
         body = body.replace('<h2 id="contactTitle"', '<h1 id="contactTitle"', 1).replace('</h2>', '</h1>', 1)
+    if path == 'research.html':
+        voice = (root/'templates/research-audio.html').read_text()
+        nav = '<a class="text-link" href="#physics-voice"><span data-i18n="voiceNav">Podcast</span></a>'
+        body = body.replace('</nav></div></section>', nav+'</nav></div></section>'+voice, 1)
     prefix='../' if path.startswith('teaching/') else ''
     desc_en,desc_fr=descriptions[path]
     page=shell.replace('{{CONTENT}}',body)
@@ -74,7 +78,8 @@ for path,(en,fr,body) in pages.items():
     if path in ('teaching/index.html', 'teaching/physique-statistique.html', 'teaching/mecanique-quantique.html', 'teaching/relativite-cosmologie.html', 'teaching/physique-nucleaire.html', 'teaching/outils-simulations.html'):
         page = page.replace('</head>', '<link rel="stylesheet" href="../assets/teaching-resources.css"></head>')
     if path == 'research.html':
-        page = page.replace('</head>', '<link rel="stylesheet" href="assets/arabic-writing.css"></head>')
+        page = page.replace('</head>', '<link rel="stylesheet" href="assets/arabic-writing.css"><link rel="stylesheet" href="assets/research-audio.css"></head>')
+        page = page.replace('<script src="assets/research-content.js"></script>', '<script src="assets/research-content.js"></script><script src="assets/research-audio-content.js"></script>')
     if path == 'activities.html':
         page = page.replace('</head>', '<link rel="stylesheet" href="assets/activities.css"></head>')
     if path == 'publications.html':

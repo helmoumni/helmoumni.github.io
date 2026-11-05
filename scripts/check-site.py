@@ -62,7 +62,7 @@ for file,parsed_page in pages.items():
         if parsed.fragment and target in pages:
             assert parsed.fragment in pages[target].ids, f'Missing anchor in {file}: {ref}'
 page=pages[(root/'index.html').resolve()]
-js="global.window={};require('./assets/content.js');require('./assets/research-content.js');require('./assets/bibliography-content.js');console.log(JSON.stringify(window.SITE_CONTENT))"
+js="global.window={};require('./assets/content.js');require('./assets/research-content.js');require('./assets/research-audio-content.js');require('./assets/bibliography-content.js');console.log(JSON.stringify(window.SITE_CONTENT))"
 content=json.loads(subprocess.check_output(['node','-e',js],cwd=root,text=True))
 for language in ['en','fr']:
     missing={key for parsed_page in pages.values() for key in parsed_page.i18n}-set(content['translations'][language])
@@ -77,6 +77,10 @@ assert (root/'assets/selected-publications.bib').read_text().count('@article{')=
 book=(root/'teaching/pendule.html').read_text()
 assert 'data-offline="true"' in book and 'PendulumPhysics' in book, 'Incomplete mechanics resource'
 assert 'script src=' not in book, 'Mechanics resource should remain standalone'
+research=(root/'research.html').read_text()
+assert 'open.spotify.com/embed/show/13b0Glr5w2dL9K0tcBysbY' in research, 'Missing Spotify show embed'
+assert 'title="Podcast Spotify de Hasan El Moumni / Hasan El Moumni Spotify podcast"' in research, 'Spotify embed requires an accessible title'
+assert 'loading="lazy"' in research, 'Spotify embed should load lazily'
 assert (root/'assets/hasan-el-moumni.png').is_file()
 sitemap=ElementTree.parse(root/'sitemap.xml')
 ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}

@@ -47,3 +47,6 @@ Sources: archived site/bio.html, site/index.html and site/research-publications.
 
 ## Stage 10 audit
 SEO descriptions summarize only content already present on each page. Canonical URLs and sitemap entries use the public GitHub Pages origin. Person structured data adds the Scopus, Google Scholar and Web of Science profiles already exposed elsewhere on the site; no new biographical claim is introduced.
+
+## Spotify podcast
+Source supplied by the author: https://open.spotify.com/show/13b0Glr5w2dL9K0tcBysbY and Spotify embed endpoint https://open.spotify.com/embed/show/13b0Glr5w2dL9K0tcBysbY. The same show ID was present in the archived Weebly research page. No episode titles or release claims were inferred.
