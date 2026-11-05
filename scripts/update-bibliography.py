@@ -2,6 +2,10 @@
 from pathlib import Path
 import subprocess,json,re,unicodedata,html
 root=Path(__file__).resolve().parents[1]
+CHECKED_ISO='2026-11-04'
+UPDATED_ISO='2026-11-05'
+CHECKED_EN='5 November 2026'
+CHECKED_FR='5 novembre 2026'
 subprocess.run(['python3',str(root/'scripts/import-bibliography.py')],check=True,stdout=subprocess.DEVNULL)
 old=json.loads((root/'assets/bibliography.json').read_text());snapshot=json.loads((root/'data/inspire-bibliography.json').read_text());hs=snapshot['records'];overrides=json.loads((root/'data/bibliography-overrides.json').read_text())
 def key(s):return re.sub('[^a-z0-9]','',unicodedata.normalize('NFKD',s).encode('ascii','ignore').decode().lower())
@@ -9,11 +13,13 @@ def clean(s):
  s=re.sub(r'<[^>]+>','',s);return s.replace('$','').replace('\\','').strip()
 used=set();records=[];changes=[]
 def enrich(p,h):
- used.add(h['id']);q=dict(p);q['inspireId']=h['id'];q['inspireUrl']='https://inspirehep.net/literature/'+h['id'];q['checked']='2026-11-04';q['archivedDetails']=p.get('details','')
+ used.add(h['id']);q=dict(p);q['inspireId']=h['id'];q['inspireUrl']='https://inspirehep.net/literature/'+h['id'];q['checked']=h.get('checked',CHECKED_ISO);q['archivedDetails']=p.get('details','')
  title=next((t['title'] for t in h['titles'] if '<' not in t['title']),h['titles'][0]['title']);q['title']=clean(title)
  q['authors']='; '.join(h['authors']);q['bibAuthors']=' and '.join(h['authors'])
  dois=list(dict.fromkeys(d['value'] for d in h['dois'] if d.get('material')!='erratum'))
  q['doi']=dois[0] if dois else None;q['errata']=[d['value'] for d in h['dois'] if d.get('material')=='erratum']
+ pdf_url=h.get('pdfUrl') or p.get('pdfUrl')
+ if pdf_url:q['pdfUrl']=pdf_url
  q['arxiv']=h['arxiv'][0] if h['arxiv'] else p.get('arxiv');pub=next((x for x in h['publication_info'] if x.get('material')!='erratum' and x.get('journal_title')),None)
  q['status']='published' if pub else 'preprint'
  if h['id']=='2625186':q['status']='unconfirmed'
@@ -28,7 +34,7 @@ def enrich(p,h):
  name=q['title'].lower();themes=[]
  if re.search('therm|entropy|phase|critical|heat|rényi|renyi|unruh|cosmic censorship|wick|joule',name):themes.append('thermodynamics')
  if re.search('shadow|deflection|light|optical|observational',name):themes.append('observations')
- if re.search('string|holograph|cft|m-theory|brane|qubit|complexity|entanglement',name):themes.append('holography')
+ if re.search('string|holograph|cft|m-theory|brane|qubit|complexity|entanglement|firewall|spacetime|emergence',name):themes.append('holography')
  if re.search('quasinormal|qpo|particle|chaos|hawking|accretion|neutrino|dynamics',name):themes.append('dynamics')
  q['themes']=themes or ['thermodynamics']
  changes.append({'id':q['id'],'inspireId':h['id'],'oldYear':p.get('year'),'year':q['year'],'oldTitle':p.get('title'),'title':q['title'],'status':q['status']});records.append(q)
@@ -46,7 +52,7 @@ assert len({p['inspireId'] for p in records})==len(records)
 for f in ['doi','arxiv']:
  vals=[p[f].lower() for p in records if p.get(f)];assert len(vals)==len(set(vals))
 (root/'assets/bibliography.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')
-report={'checked':'2026-11-04','count':len(records),'added':len(records)-len(old),'doiCount':sum(bool(p['doi']) for p in records),'statuses':{s:sum(p['status']==s for p in records) for s in ['published','preprint','unconfirmed','forthcoming']},'changes':changes,'unresolved':[{'record':'weebly-07','candidateInspireId':'2765745','reason':'Same six authors and near-identical topic/abstract, but no explicit arXiv-to-publication link. Candidate not added separately to avoid likely double counting.'}],'yearOverrides':overrides}
+report={'updated':UPDATED_ISO,'count':len(records),'added':len(records)-len(old),'doiCount':sum(bool(p['doi']) for p in records),'statuses':{s:sum(p['status']==s for p in records) for s in ['published','preprint','unconfirmed','forthcoming']},'changes':changes,'unresolved':[{'record':'weebly-07','candidateInspireId':'2765745','reason':'Same six authors and near-identical topic/abstract, but no explicit arXiv-to-publication link. Candidate not added separately to avoid likely double counting.'}],'yearOverrides':overrides}
 (root/'data/bibliography-update-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 # Export only identified fields; do not invent journal metadata for preprints.
 def bibescape(s):return str(s).replace('&',r'\&').replace('%',r'\%').replace('_',r'\_').replace('{','').replace('}','')
@@ -63,7 +69,7 @@ t={'en':{},'fr':{}}
 def tr(k,en,fr,tag='span',attrs=''):
  t['en'][k]=en;t['fr'][k]=fr;return f'<{tag} data-i18n="{k}" {attrs}>{en}</{tag}>'
 esc=html.escape
-body='<section class="section" id="publications"><div class="container">'+tr('b5title','Publications & preprints','Publications et prépublications','h1')+tr('b5intro',f'{len(records)} references · metadata checked against INSPIRE on 4 November 2026.',f'{len(records)} références · métadonnées contrôlées dans INSPIRE le 4 novembre 2026.','p')+tr('b5note','Journal records, preprints and forthcoming issues are distinguished below. One M-theory version link remains to be confirmed. Topic tags are editorial; a paper may belong to several themes.','Les notices de revue, les prépublications et les numéros à paraître sont distingués ci-dessous. Un rapprochement de versions en théorie M reste à confirmer. Les thèmes sont un classement éditorial ; un article peut relever de plusieurs axes.','p','class="archive-note"')
+body='<section class="section" id="publications"><div class="container">'+tr('b5title','Publications & preprints','Publications et prépublications','h1')+tr('b5intro',f'{len(records)} references · catalog updated from INSPIRE on {CHECKED_EN}.',f'{len(records)} références · catalogue actualisé depuis INSPIRE le {CHECKED_FR}.','p')+tr('b5note','Journal records, preprints and forthcoming issues are distinguished below. One M-theory version link remains to be confirmed. Topic tags are editorial; a paper may belong to several themes.','Les notices de revue, les prépublications et les numéros à paraître sont distingués ci-dessous. Un rapprochement de versions en théorie M reste à confirmer. Les thèmes sont un classement éditorial ; un article peut relever de plusieurs axes.','p','class="archive-note"')
 body+='<div class="academic-profiles"><a class="text-link" href="assets/bibliography.bib" download>BibTeX ↓</a><a class="text-link" href="assets/bibliography.json" download>JSON ↓</a></div><div class="bibliography-controls" id="bibliographyControls" hidden>'
 body+='<label>'+tr('bsearch','Search title, author or DOI','Rechercher un titre, auteur ou DOI')+'<input id="bibSearch" type="search"></label>'
 options={'theme': [('all','All themes','Tous les thèmes'),('thermodynamics','Thermodynamics','Thermodynamique'),('observations','Observations','Observations'),('holography','Holography & strings','Holographie et cordes'),('dynamics','Dynamics','Dynamique')],'status':[('all','All statuses','Tous les statuts'),('published','Journal record','Notice de revue'),('preprint','Preprint','Prépublication'),('forthcoming','Forthcoming issue','Numéro à paraître'),('unconfirmed','Version to confirm','Version à confirmer')]}
@@ -80,6 +86,7 @@ for p in records:
  body+='</div><div class="publication-links">'
  if p['doi']:body+=f'<a href="https://doi.org/{esc(p["doi"],quote=True)}" target="_blank" rel="noopener">DOI ↗</a>'
  if p.get('arxiv'):body+=f'<a href="https://arxiv.org/abs/{esc(p["arxiv"],quote=True)}" target="_blank" rel="noopener">arXiv ↗</a>'
+ if p.get('pdfUrl'):body+=f'<a href="{esc(p["pdfUrl"],quote=True)}" target="_blank" rel="noopener">PDF ↗</a>'
  body+=f'<a href="{p["inspireUrl"]}" target="_blank" rel="noopener">INSPIRE ↗</a>'
  for doi in p['errata']:body+=f'<a href="https://doi.org/{esc(doi,quote=True)}" target="_blank" rel="noopener">Erratum ↗</a>'
  body+='</div></article>'
