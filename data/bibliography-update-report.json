@@ -1,13 +1,13 @@
 {
-  "checked": "2026-11-04",
-  "count": 69,
-  "added": 7,
-  "doiCount": 63,
+  "updated": "2026-11-05",
+  "count": 70,
+  "added": 8,
+  "doiCount": 64,
   "statuses": {
     "published": 64,
     "preprint": 3,
     "unconfirmed": 1,
-    "forthcoming": 1
+    "forthcoming": 2
   },
   "changes": [
     {
@@ -567,6 +567,15 @@
       "oldTitle": "On Hawking radiation of 2d Liouville black hole",
       "title": "On Hawking radiation of 2d Liouville black hole",
       "status": "preprint"
+    },
+    {
+      "id": "inspire-3223731",
+      "inspireId": "3223731",
+      "oldYear": null,
+      "year": 2027,
+      "oldTitle": null,
+      "title": "The Big Bang Firewall and the Emergence of Spacetime",
+      "status": "forthcoming"
     },
     {
       "id": "inspire-2858816",
