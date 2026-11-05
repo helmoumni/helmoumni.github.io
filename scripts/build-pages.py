@@ -87,6 +87,9 @@ for path,(en,fr,body) in pages.items():
         page = page.replace('</body>', '<script src="assets/bibliography-filters.js"></script></body>')
     (root/path).parent.mkdir(exist_ok=True,parents=True)
     (root/path).write_text(page)
-urls=['https://helmoumni.github.io/'+('' if p=='index.html' else p) for p in pages]+['https://helmoumni.github.io/teaching/pendule.html']
+urls=['https://helmoumni.github.io/'+('' if p=='index.html' else p) for p in pages]+[
+    'https://helmoumni.github.io/teaching/pendule.html',
+    'https://helmoumni.github.io/teaching/chute-libre.html'
+]
 (root/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+u+'</loc></url>' for u in urls)+'</urlset>\n')
 print('Generated',len(pages),'pages.')
