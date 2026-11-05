@@ -77,6 +77,10 @@ assert (root/'assets/selected-publications.bib').read_text().count('@article{')=
 book=(root/'teaching/pendule.html').read_text()
 assert 'data-offline="true"' in book and 'PendulumPhysics' in book, 'Incomplete mechanics resource'
 assert 'script src=' not in book, 'Mechanics resource should remain standalone'
+freefall=(root/'teaching/chute-libre.html').read_text()
+assert 'data-offline="true"' in freefall and 'FreeFallPhysics' in freefall, 'Incomplete free-fall mechanics resource'
+assert 'script src=' not in freefall, 'Free-fall resource should remain standalone'
+assert all(token in freefall for token in ['fitCanvas','residualCanvas','heightBias','intercept']), 'Incomplete free-fall analysis workflow'
 research=(root/'research.html').read_text()
 assert 'open.spotify.com/embed/show/13b0Glr5w2dL9K0tcBysbY' in research, 'Missing Spotify show embed'
 assert 'title="Podcast Spotify de Hasan El Moumni / Hasan El Moumni Spotify podcast"' in research, 'Spotify embed requires an accessible title'
