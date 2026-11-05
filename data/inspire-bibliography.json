@@ -1,7 +1,49 @@
 {
-  "retrieved": "2026-11-04",
+  "retrieved": "2026-11-05",
   "query": "https://inspirehep.net/api/literature?q=a%20H.El.Moumni.1&size=250",
   "records": [
+    {
+      "id": "3223731",
+      "titles": [
+        {
+          "source": "JHAP",
+          "title": "The Big Bang Firewall and the Emergence of Spacetime"
+        }
+      ],
+      "authors": [
+        "Barzi, F.",
+        "El Moumni, H.",
+        "Masmar, K."
+      ],
+      "authorIds": [
+        "F.Barzi.1",
+        "H.El.Moumni.1",
+        "K.Masmar.1"
+      ],
+      "dois": [
+        {
+          "material": "publication",
+          "source": "JHAP",
+          "value": "10.22128/jhap.2026.3270.1198"
+        }
+      ],
+      "publication_info": [
+        {
+          "journal_volume": "7",
+          "page_start": "142",
+          "page_end": "161",
+          "material": "publication",
+          "year": 2027,
+          "journal_issue": "1",
+          "journal_title": "JHAP"
+        }
+      ],
+      "arxiv": [],
+      "date": "2027",
+      "updated": "2026-11-05",
+      "checked": "2026-11-05",
+      "pdfUrl": "https://jhap.du.ac.ir/article_2124_019b68e92c3e5dac9bce571c332b7a02.pdf"
+    },
     {
       "id": "1811933",
       "titles": [
