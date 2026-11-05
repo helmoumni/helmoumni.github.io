@@ -27,6 +27,33 @@
     ]
   },
   {
+    "id": "inspire-3223731",
+    "source": "inspire-update",
+    "sourceOrdinals": [],
+    "inspireId": "3223731",
+    "inspireUrl": "https://inspirehep.net/literature/3223731",
+    "checked": "2026-11-05",
+    "archivedDetails": "",
+    "title": "The Big Bang Firewall and the Emergence of Spacetime",
+    "authors": "Barzi, F.; El Moumni, H.; Masmar, K.",
+    "bibAuthors": "Barzi, F. and El Moumni, H. and Masmar, K.",
+    "doi": "10.22128/jhap.2026.3270.1198",
+    "errata": [],
+    "pdfUrl": "https://jhap.du.ac.ir/article_2124_019b68e92c3e5dac9bce571c332b7a02.pdf",
+    "arxiv": null,
+    "status": "forthcoming",
+    "year": 2027,
+    "journal": "JHAP",
+    "volume": "7",
+    "pages": "142–161",
+    "details": "Barzi, F.; El Moumni, H.; Masmar, K. — JHAP 7, 142–161 (2027)",
+    "url": "https://doi.org/10.22128/jhap.2026.3270.1198",
+    "linkType": "doi",
+    "themes": [
+      "holography"
+    ]
+  },
+  {
     "id": "inspire-3160241",
     "source": "inspire-update",
     "sourceOrdinals": [],
@@ -492,7 +519,8 @@
     "volume": "55",
     "pages": "109",
     "themes": [
-      "thermodynamics"
+      "thermodynamics",
+      "holography"
     ]
   },
   {
